@@ -1,2 +1,2 @@
-# Morebrent
+# MoreBrentBrain
 Brent’s Second Brain
