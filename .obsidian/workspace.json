@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e33430f076fcb771",
+        "id": "1495ea03c0464e99",
         "type": "tabs",
         "children": [
           {
-            "id": "efb5b42af353ec70",
+            "id": "efa46738fc23e962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -164,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "ab65890c924e9b9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +186,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efb5b42af353ec70",
+  "active": "ab65890c924e9b9a",
   "lastOpenFiles": [
+    "Untitled.base",
+    "README.md",
     "CLAUDE.md"
   ]
 }
