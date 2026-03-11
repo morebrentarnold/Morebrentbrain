@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7bb1aa69bd4350ee",
+        "id": "c9496e7d8916fb16",
         "type": "split",
         "children": [
           {
             "id": "1495ea03c0464e99",
             "type": "tabs",
+            "dimension": 21.052631578947366,
             "children": [
               {
                 "id": "efa46738fc23e962",
@@ -45,11 +46,12 @@
             "currentTab": 1
           },
           {
-            "id": "3ef068ec58d63947",
+            "id": "ec2dac08f4d802b5",
             "type": "tabs",
+            "dimension": 78.94736842105263,
             "children": [
               {
-                "id": "c66118d201a6c555",
+                "id": "8e7991ffed116e0d",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -267,8 +269,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "571fb6f465e9b125",
+  "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
+    "Projects/career-job-search-2026/interviews/uber-recruiter-call-prep.md",
+    "Projects/career-job-search-2026/companies/uber-group-pdm-rider.md",
+    "Projects/career-job-search-2026/companies/company-template.md",
+    "Projects/career-job-search-2026/prep-materials/chatgpt-notes-import.md",
+    "Projects/career-job-search-2026/prep-materials/questions-for-employers.md",
+    "Projects/career-job-search-2026/prep-materials/interview-stories.md",
+    "Projects/career-job-search-2026/prep-materials",
+    "Projects/career-job-search-2026/interviews",
+    "Projects/career-job-search-2026/companies",
+    "Projects/career-job-search-2026",
+    "Projects/career-job-search-2026.md",
+    "Archive/README.md",
     "Inbox/solo-trip-late-march.md",
     "Areas/health.md",
     "Areas/README.md",
