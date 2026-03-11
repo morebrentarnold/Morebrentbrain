@@ -20,7 +20,6 @@ status: active
 - **Sugarbush, VT** (~3.5 hrs) — Underrated, two interconnected mountains, great intermediate/advanced terrain. Mad River Valley is beautiful.
 
 ### Non-Snow Options (no hiking, no surfing)
-- **Rock climbing — The Gunks, New Paltz NY** (~2 hrs) — World-class climbing on famous quartzite cliffs. Hire a guide for the day, no experience needed. Very physical, meditative, and social. Best spring climbing in the Northeast.
 - **Fly fishing — Catskills, NY** (~2 hrs) — Trout season opens April 1. The Beaverkill and Willowemoc are legendary streams. Guided half-day or full-day trips available. Slow-paced but intensely focused — good for mental reset.
 - **Whitewater rafting — Deerfield River, MA** (~2.5 hrs) — Spring runoff makes late March/April prime time. Zoar Outdoor runs guided trips. Physically engaging, low skill floor, great solo option.
 - **Canyon Ranch, Lenox MA** (~2.5 hrs) — Wellness/spa resort with real fitness programming (not just massages). Swimming, cycling classes, strength training, guided meditation. Expensive but genuinely restorative.
