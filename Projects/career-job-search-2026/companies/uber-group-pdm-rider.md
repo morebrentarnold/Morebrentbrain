@@ -17,16 +17,24 @@ status: active
 ## Role Details
 
 ### Position
-**Group Product Design Manager, Rider**
+**Group Product Design Manager, Rider + Rider Growth**
+
+**NEW INTEL FROM RECRUITER CALL:**
+- This is a **consolidation of two existing PDM roles**:
+  - App Experience PDM
+  - Rider Vertical PDM
+- You'd be overseeing **both Rider and Rider Growth**
+- **Managing managers** (not just ICs)
+- Reports to Design Director in NYC
 
 ### Key Responsibilities
-- Lead design team focused on Rider Experience
+- Lead design team focused on Rider Experience AND Rider Growth
 - Collaborate cross-functionally on "most important and exciting initiatives"
 - Set quality standards while maintaining velocity
-- Hire, coach, and develop designers
+- Hire, coach, and develop designers (managing managers!)
 - Champion user problems and customer voice
 - Run design reviews, critiques, and sprints
-- Balance strategic thinking with detailed design evaluation
+- **Balance strategic thinking with detailed design evaluation** (they emphasized: "strong manager but involved in craft")
 
 ### Requirements
 **Must Have:**
@@ -44,12 +52,14 @@ status: active
 - Thought leadership
 - Multi-sided marketplaces, AI, or autonomous vehicles background
 
-### Compensation
+### Compensation (CONFIRMED IN CALL)
 - **Base**: $241,000–$268,000/year
+- **Total Comp**: $500,000–$600,000
 - Bonus eligible
-- Equity awards
+- **Equity**: 35% front-loaded vesting
 - 401(k) + comprehensive benefits
-- **Work Model**: Hybrid (50%+ in-office required)
+- **Work Model**: Hybrid - **3 days in office (Tue/Wed/Thu)**
+- **Office Location**: 3 World Trade Center, NYC
 
 ## Company Research
 
@@ -139,13 +149,15 @@ status: active
 
 ### Interview Timeline
 - [x] Application submitted
-- [ ] Schedule recruiter call with Jennifer - **ACTION: Book time**
-- [ ] Recruiter call
-- [ ] Hiring manager interview
-- [ ] Design team interviews
-- [ ] Cross-functional interviews
-- [ ] Final/exec round
+- [x] Recruiter call with Jennifer - **COMPLETED 3/11/26**
+- [x] Portfolio sent (Experience Overview deck) - **SENT & SHARED WITH HM**
+- [ ] **NEXT: 1:1 with Hiring Manager (Design Director, NYC)**
+- [ ] Design team interviews (TBD)
+- [ ] Cross-functional interviews (TBD)
+- [ ] Final/exec round (TBD)
 - [ ] Offer/decision
+
+**Portfolio Shared:** https://docs.google.com/presentation/d/1sQVf257uqayVJLChaL6oBNNaVInuECDj6a-X1GZolUM/edit?slide=id.g32774d25eac_0_630#slide=id.g32774d25eac_0_630
 
 ## Research To-Do Before Call
 - [ ] Review Uber Rider app (download if needed, note UX strengths/gaps)
@@ -156,13 +168,57 @@ status: active
 - [ ] Review Uber's mission/values
 - [ ] Prepare STAR stories for common design leadership questions
 
-## Post-Call Notes
-_After your call with Jennifer, capture key insights here_
+## Post-Call Notes - Jennifer (3/11/26)
 
 ### What I Learned
 
+**Role Scope (BIGGER THAN EXPECTED):**
+- Consolidating TWO existing PDM roles into one
+  - Currently: App Experience PDM + Rider Vertical PDM
+  - New role: Group PDM for Rider + Rider Growth
+- This is a **managing managers** role
+- Reports to Design Director (based in NYC)
+
+**What They're Looking For:**
+- "Strong manager BUT involved in craft"
+- Strategic leadership + hands-on design quality oversight
+- Someone who can unify two teams under one vision
+
+**Team Structure:**
+- Design Director is in NYC (your boss)
+- You'd oversee Rider and Rider Growth design teams
+- Specific team size TBD (ask hiring manager!)
+
+**Work Logistics:**
+- NYC-based role (3 World Trade Center)
+- 3 specific days in office: **Tuesday, Wednesday, Thursday**
+- Other locations (SF, Seattle) possible but NYC is primary
+
+**Compensation Details:**
+- Base: $241k-$268k
+- **Total comp: $500k-$600k** (strong equity component!)
+- 35% front-loaded equity vesting
+- Standard bonus structure
+
+**Interview Process:**
+- Next step: 1:1 with Hiring Manager (Design Director)
+- Portfolio already shared and forwarded
+- Rest of process TBD
+
 ### Questions That Came Up
+- Team size and structure (will ask hiring manager)
+- Current team dynamics between the two PDMs being consolidated
+- Roadmap priorities for Rider vs. Rider Growth
 
 ### Next Steps
+- ✅ Send portfolio (DONE - Jennifer forwarded to hiring manager)
+- ⏳ Wait for hiring manager to review + schedule 1:1
+- 📋 Prepare for Design Director conversation
+- 🔍 Research current Rider app features and growth initiatives
 
 ### Overall Impression
+**POSITIVE**
+- Role is bigger scope than job posting suggested (consolidation = senior leadership opportunity)
+- Total comp is strong ($500-600k)
+- Clear process, Jennifer was organized and helpful
+- Fast movement (portfolio already with hiring manager)
