@@ -10,7 +10,7 @@
           {
             "id": "1495ea03c0464e99",
             "type": "tabs",
-            "dimension": 21.052631578947366,
+            "dimension": 25.922023182297156,
             "children": [
               {
                 "id": "efa46738fc23e962",
@@ -34,12 +34,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Archive/README.md",
+                    "file": "Areas/health.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "health"
                 }
               }
             ],
@@ -48,7 +48,7 @@
           {
             "id": "ec2dac08f4d802b5",
             "type": "tabs",
-            "dimension": 78.94736842105263,
+            "dimension": 74.07797681770283,
             "children": [
               {
                 "id": "8e7991ffed116e0d",
@@ -271,6 +271,9 @@
   },
   "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
+    "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
+    "Areas/health.md",
+    "Areas/README.md",
     "Archive/README.md",
     "Projects/career-job-search-2026/interviews/uber-recruiter-call-prep.md",
     "Projects/career-job-search-2026/companies/uber-group-pdm-rider.md",
@@ -284,8 +287,6 @@
     "Projects/career-job-search-2026",
     "Projects/career-job-search-2026.md",
     "Inbox/solo-trip-late-march.md",
-    "Areas/health.md",
-    "Areas/README.md",
     "Inbox/README.md",
     "Resources/README.md",
     "Templates/README.md",
