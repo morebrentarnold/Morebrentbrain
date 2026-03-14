@@ -89,7 +89,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ⠐ Claude Code"
+                  "title": "Terminal: ✳ Claude Code"
                 }
               }
             ]
@@ -271,6 +271,11 @@
   },
   "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
+    "Areas/big-rocks.md",
+    "Areas/home.md",
+    "Resources/media.md",
+    "Templates/daily.md",
+    "Areas/Daily",
     "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
     "Areas/health.md",
     "Areas/README.md",
