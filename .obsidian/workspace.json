@@ -24,8 +24,8 @@
                       "iconI18nKey": "asset:generic.documentations.readme-icon"
                     }
                   },
-                  "icon": "file-question",
-                  "title": "Readme"
+                  "icon": "lucide-ghost",
+                  "title": "terminal:documentation"
                 }
               },
               {
@@ -88,8 +88,8 @@
                     }
                   },
                   "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: zsh"
+                  "icon": "lucide-ghost",
+                  "title": "terminal:terminal"
                 }
               }
             ]
@@ -245,8 +245,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -264,9 +264,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "bases:Create new base": false
     }
   },
   "active": "8e7991ffed116e0d",
