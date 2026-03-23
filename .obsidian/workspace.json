@@ -62,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Read.md",
+                    "file": "Resources/Read.md",
                     "mode": "source",
                     "source": false
                   },
@@ -76,7 +76,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Watch.md",
+                    "file": "Resources/Watch.md",
                     "mode": "source",
                     "source": false
                   },
@@ -90,7 +90,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Listen.md",
+                    "file": "Resources/Listen.md",
                     "mode": "source",
                     "source": false
                   },
@@ -104,7 +104,35 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Games.md",
+                    "file": "Resources/Games.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Games"
+                }
+              },
+              {
+                "id": "54d021c4aef7df67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Areas/Buy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Buy"
+                }
+              },
+              {
+                "id": "8daa200273cdc731",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Resources/Games.md",
                     "mode": "source",
                     "source": false
                   },
@@ -113,7 +141,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 8
           },
           {
             "id": "ec2dac08f4d802b5",
@@ -276,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games.md",
+                "file": "Resources/Games.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -317,40 +345,39 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0b35328e88d5a348",
+  "active": "8daa200273cdc731",
   "lastOpenFiles": [
-    "Listen.md",
-    "Games.md",
-    "Watch.md",
-    "Read.md",
-    "CLAUDE.md",
-    "Big Rocks.md",
-    "Daily/2026-03-23.md",
     "Templates/Daily Note.md",
+    "Areas/House Items.md",
+    "Areas/Buy.md",
+    "Resources/Listen.md",
+    "Resources/Watch.md",
+    "Resources/Read.md",
+    "Untitled.base",
+    "CLAUDE.md",
+    "README.md",
+    "Resources/Games.md",
+    "Resources/README.md",
+    "Resources/media.md",
+    "Areas/Health.md",
+    "Areas/home.md",
+    "Areas/Big Rocks.md",
+    "Areas/big-rocks.md",
+    "Daily/2026-03-23.md",
     "Templates/daily.md",
     "Daily",
     "Hello.md",
-    "Areas/big-rocks.md",
-    "Areas/home.md",
-    "Resources/media.md",
     "Areas/Daily",
     "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
-    "Areas/health.md",
     "Areas/README.md",
     "Archive/README.md",
     "Projects/career-job-search-2026/interviews/uber-recruiter-call-prep.md",
     "Projects/career-job-search-2026/companies/uber-group-pdm-rider.md",
     "Projects/career-job-search-2026/companies/company-template.md",
     "Projects/career-job-search-2026/prep-materials/chatgpt-notes-import.md",
-    "Projects/career-job-search-2026/prep-materials/questions-for-employers.md",
-    "Projects/career-job-search-2026/prep-materials/interview-stories.md",
     "Projects/career-job-search-2026/prep-materials",
     "Projects/career-job-search-2026/interviews",
     "Projects/career-job-search-2026/companies",
-    "Projects/career-job-search-2026",
-    "Projects/career-job-search-2026.md",
-    "Inbox/solo-trip-late-march.md",
-    "Inbox/README.md",
-    "Untitled.base"
+    "Projects/career-job-search-2026"
   ]
 }
