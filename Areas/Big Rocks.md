@@ -19,6 +19,7 @@ These are my most important long-term priorities. Everything else serves these.
 - [ ] Land the right next role after Meta recharge
 
 ## Family
+- [ ] Sweet Jane polo
 - [ ] Land renovation plan that we are happy with
 - [ ] Edward tufts farms (family trip?)
 - [ ] Connect with Joey's parents and girlfriend

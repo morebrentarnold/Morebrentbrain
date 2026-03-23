@@ -5,6 +5,7 @@ tags: [evergreen]
 # 🎮 Games
 
 ## To Play
+- [ ] Crimson desert game
 - [ ] SNES games
 - [ ] Emudeck
 - [ ] Persona
