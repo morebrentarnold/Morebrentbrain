@@ -34,12 +34,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Areas/health.md",
+                    "file": "Templates/Daily Note.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "health"
+                  "title": "Daily Note"
                 }
               }
             ],
@@ -247,14 +247,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "67560b8e7ee36043",
+  "active": "571fb6f465e9b125",
   "lastOpenFiles": [
+    "Templates/daily.md",
+    "Templates/Daily Note.md",
     "Daily",
     "Hello.md",
     "Areas/big-rocks.md",
     "Areas/home.md",
     "Resources/media.md",
-    "Templates/daily.md",
     "Areas/Daily",
     "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
     "Areas/health.md",
