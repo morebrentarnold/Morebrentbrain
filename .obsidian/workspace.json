@@ -132,12 +132,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Resources/Games.md",
+                    "file": "Daily/2026-03-23.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Games"
+                  "title": "2026-03-23"
                 }
               }
             ],
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Games.md",
+                "file": "Daily/2026-03-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Games"
+              "title": "Outline of 2026-03-23"
             }
           },
           {
@@ -347,11 +347,11 @@
   },
   "active": "8daa200273cdc731",
   "lastOpenFiles": [
+    "Resources/Games.md",
     "Daily/2026-03-23.md",
     "Areas/Big Rocks.md",
     "CLAUDE.md",
     "Vault Index.base",
-    "Resources/Games.md",
     "Templates/Daily Note.md",
     "Areas/House Items.md",
     "Areas/Buy.md",

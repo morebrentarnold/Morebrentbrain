@@ -6,7 +6,7 @@ tags: [evergreen]
 
 ## To Play
 - [ ] Crimson desert game
-- [ ] SNES games
+- [ ] SNES games - https://youtu.be/DA0g1jkyTaI?si=VRJJ90IsPgI-4BWa
 - [ ] Emudeck
 - [ ] Persona
 - [ ] Unknown Amilea board game
