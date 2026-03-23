@@ -242,10 +242,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "67560b8e7ee36043",
+  "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
     "Hello.md",
     "Areas/big-rocks.md",

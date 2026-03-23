@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "terminal"
+  "terminal",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-full-calendar"
 ]
