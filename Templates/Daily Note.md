@@ -7,6 +7,7 @@ tags: [daily]
 
 ## 🪞 Journal
 
+
 ## 🎯 Today
 
 ```dataviewjs

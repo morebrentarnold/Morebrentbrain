@@ -22,5 +22,6 @@
     "editor:configure-toolbar",
     "daily-notes:goto-next"
   ],
-  "mobilePullAction": "daily-notes"
+  "mobilePullAction": "daily-notes",
+  "promptDelete": false
 }
