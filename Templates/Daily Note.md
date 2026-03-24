@@ -6,7 +6,14 @@ tags: [daily]
 # <% tp.date.now("dddd, MMMM D, YYYY") %>
 
 ## 🎯 Today
-- [ ] 
+
+```dataview
+TASK
+FROM "Daily/<% tp.date.now("YYYY-MM-DD", -1) %>"
+WHERE !completed
+```
+
+- [ ]
 
 ## ⏫ Next Up
 - [ ] 
