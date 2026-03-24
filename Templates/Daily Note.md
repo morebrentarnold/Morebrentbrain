@@ -5,12 +5,19 @@ tags: [daily]
 
 # <% tp.date.now("dddd, MMMM D, YYYY") %>
 
+## 🪞 Journal
+
 ## 🎯 Today
 
-```dataview
-TASK
-FROM "Daily/<% tp.date.now("YYYY-MM-DD", -1) %>"
-WHERE !completed
+```dataviewjs
+const yesterday = dv.date("today").minus({days: 1}).toFormat("yyyy-MM-dd");
+const pages = dv.pages(`"Daily/${yesterday}"`);
+const tasks = pages.file.tasks.where(t => !t.completed);
+if (tasks.length > 0) {
+    dv.taskList(tasks, false);
+} else {
+    dv.paragraph("_No incomplete tasks from yesterday._");
+}
 ```
 
 - [ ]
