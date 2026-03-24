@@ -8,6 +8,7 @@ These are my most important long-term priorities. Everything else serves these.
 
 ## Health
 - [ ] Full Achilles recovery — get back to full mobility and training
+- [ ] Get a new PCP
 - [ ] Get down to a happy weight (~200lbs)
 - [ ] Tattoo removal
 - [ ] Move back into working out at home successfully
