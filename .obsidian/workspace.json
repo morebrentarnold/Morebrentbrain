@@ -146,12 +146,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Areas/Big Rocks.md",
+                    "file": "Daily/2026-03-24.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Big Rocks"
+                  "title": "2026-03-24"
                 }
               }
             ],
@@ -318,13 +318,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Big Rocks.md",
+                "file": "Daily/2026-03-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Big Rocks"
+              "title": "Outline of 2026-03-24"
             }
           },
           {
@@ -359,13 +359,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "66738d5408bf8e05",
+  "active": "67560b8e7ee36043",
   "lastOpenFiles": [
-    "Resources/Logins.md",
-    "Daily/2026-03-24.md",
-    "Inbox/Inbox.md",
-    "Areas/Big Rocks.md",
     "Daily/2026-03-23.md",
+    "Daily/2026-03-24.md",
+    "Areas/Big Rocks.md",
+    "Resources/Logins.md",
+    "Inbox/Inbox.md",
     "Resources/Games.md",
     "CLAUDE.md",
     "Vault Index.base",
