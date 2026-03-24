@@ -1,5 +1,3 @@
-# July 5th, 2018
-
 * I feel like my team is pretty unaligned and not strong with each other. I think I dont know how to get Damon or Katie empowered. 
 
 

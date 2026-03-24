@@ -1,4 +1,3 @@
-# March 30th, 2022: My intent is to be better for change
 When meditating this morning, we focused on change. And in thinking through my why/intentionality for meditating it usually goes to being better for Billie.
 
 But yesterday it was my intention in meditation was to be better for myself.

@@ -1,4 +1,3 @@
-# Wednesday May 4th, 2022
 Design systems manager would be 
 
 Alex

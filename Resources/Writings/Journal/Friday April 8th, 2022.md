@@ -1,5 +1,3 @@
-# Friday April 8th, 2022
-
 * 9:20 AM Just got off the phone with Tim. 
 * 9:24 AM On phone with Fidelity to discuss 401k loan options. If this doesnt work I need to talk to Schwab on Monday. 
 * 9:53 AM 

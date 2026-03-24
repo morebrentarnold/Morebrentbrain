@@ -1,4 +1,3 @@
-# October 27th, Denied
 Sitting on the couch in the living room? Guest room? Who knows.
 
 Just got Olive down. Having trouble getting the hang of sleep training. But we also have Billie to deal with so its hard.

@@ -1,4 +1,3 @@
-# November 2nd, 2021
 Jane just went upstairs. We had a awful fight and discussion. She asked me to go stay with my parents at one point. We ended up talking through it.
 
 What caused it? 

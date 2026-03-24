@@ -1,5 +1,3 @@
-# Nagging Advice
-
 
 Ilove that you share your feelins with me and you feel safe
 I hope your patient with me when you share negative things wit hme

@@ -1,4 +1,3 @@
-# 11/20/18: put a dent in the universe.
 Lots to write out but four things floating in my head.
 
 Jesse / Lyft

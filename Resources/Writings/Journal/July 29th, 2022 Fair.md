@@ -1,4 +1,3 @@
-# July 29th, 2022: Fair
 Today we got home from Manzanita
 Before bed Jane told me she doesnt want to do a trip like that again and I tried to talk her through it.
 

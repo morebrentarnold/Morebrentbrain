@@ -1,5 +1,3 @@
-# December 14th, 2021: Goal Framework
-
 Still havent written down how I feel about returning to work. Maybe a quick few bullets:
 * Felt easier than I thought to slot in
 * But Im not looking forward to the actual design work.

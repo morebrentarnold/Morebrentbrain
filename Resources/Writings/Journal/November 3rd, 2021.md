@@ -1,4 +1,3 @@
-# November 3rd, 2021
 Today and tonight was good with jane. The whole family seemed to be in a good groove. 
 
 Jane and I are talking about each other’s journals. 

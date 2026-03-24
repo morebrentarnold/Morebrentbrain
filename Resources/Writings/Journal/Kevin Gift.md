@@ -1,4 +1,3 @@
-# Kevin Gift
 **Clare de Lune**
 Larry’s favorite classical tune to try and master as a pianist was “Clare de Lune”. He practiced it incessantly. He played it for me at a piano store on Michigan Ave when we were courting. 
 Stole my ❤️. 

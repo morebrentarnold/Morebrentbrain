@@ -1,4 +1,3 @@
-# September 8th, 2021
 I’m writing this laying in bed early in the morning. Wishing I was sitting on the porch having a peaceful moment.
 
 #journal/Billie

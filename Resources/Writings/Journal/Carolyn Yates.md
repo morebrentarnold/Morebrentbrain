@@ -1,5 +1,3 @@
-# Carolyn Yates
-
 Billie
 Jane and I 
 

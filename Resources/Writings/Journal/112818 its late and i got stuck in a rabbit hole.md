@@ -1,5 +1,3 @@
-# 11/28/18: its late and i got stuck in a rabbit hole
-
 I was in abetter mood today and then I sat down to do fuck around on damon’s designs. And then jane was talking to me and I started to get frustrated and felt myself being annoyed. 
 
 And then it got worse…. jane sent me a listing for a house in westport. And it frustrated me. But I was able to step back and not let it get to me. 

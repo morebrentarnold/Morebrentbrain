@@ -1,5 +1,3 @@
-# Management Philisophy
-
 **FB Manager Axes**
 Results - Driving strong product impact, ensuring design excellence, and delivering strategic outcomes.
 Team Health - Supporting your team, making them more effective and engaged.

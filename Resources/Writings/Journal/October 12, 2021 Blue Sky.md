@@ -1,4 +1,3 @@
-# October 12, 2021: Blue Sky
 Meditated this morning. Guide talked about meditation as analogy to clouds and the blue sky. You dont need to search for something with meditation but the blue sky is always there. It’s just about removing the clouds.
 
 Going to the doctor today about my leg. Im uncertain what to expect. I think it will be go to PT work on X,Y, Z .

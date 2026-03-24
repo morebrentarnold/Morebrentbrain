@@ -1,4 +1,3 @@
-# 11/9/18: Unclog myself 
 Too much. I feel soooo frustrated with work. and I need a way to unplug and not be frustrated or to unclog myself.
 
 I feel like I’m in danger of started to be toxic myself. 

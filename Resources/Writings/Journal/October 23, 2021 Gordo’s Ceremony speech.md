@@ -1,5 +1,3 @@
-# October 23, 2021: Gordo’s Ceremony speech
-
 * Hey everyone
 * Because were all a little sick in this family
   * Ive thought about this day for a long time

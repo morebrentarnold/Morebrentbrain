@@ -1,4 +1,3 @@
-# 10/3/18: Ambiguity is the enemy
 Allan mentioned ending meetings with no ambiguity. 
 Maybe we should institute a no prototype. No meeting policy.
 

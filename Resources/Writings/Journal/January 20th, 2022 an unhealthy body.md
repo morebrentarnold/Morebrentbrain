@@ -1,4 +1,3 @@
-# January 20th, 2022: an unhealthy body
 Finished my 30th day of meditation this morning. I should give myself credit for that.
 
 During my body scan I saw my body as tired and a bit sickly. I felt slight shame about it. It felt that way partially because of drinking last night.

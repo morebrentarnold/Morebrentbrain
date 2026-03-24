@@ -1,4 +1,3 @@
-# Why do these need to have a name?: 12/29/18
 The reason this entry came into being was because I was writing notes about Personal Principles. 
 
 Thats not a very interesting opening. Sigh.

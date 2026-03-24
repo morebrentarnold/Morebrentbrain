@@ -1,5 +1,3 @@
-# 08/31/23 - white butterfly dream
-
 I had a wonderful dream.
 It started out i Waaay sitting at a small table outside
 I was at some backyard bbq with lots of people

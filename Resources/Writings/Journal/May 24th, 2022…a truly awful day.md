@@ -1,5 +1,3 @@
-# May 24th, 2022…a truly awful day
-
 Tonight was bad. While putting the girls to bed, Billie was being difficult and overtired and wanted someone to lay down with her. I told her I would come back and say goodnight but had to put Olive to bed. While I was getting Olive ready jane came up and Billie started crying more for someone to lay with her.
 
 It escalated fast. And I heard yelling so I went out and jane was trying to throw Billie in the bed. I got in the middle of them, kept asking jane to leave, she yelled that Billie needed boundaries. And then hit my arm and screamed. Which caused both kids to cry and yell.

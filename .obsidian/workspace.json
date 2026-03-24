@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Writings/Journal/Why do these need to have a name 122918.md",
+                "file": "Resources/Writings/My Writing Voice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why do these need to have a name 122918"
+              "title": "My Writing Voice"
             }
           }
         ],
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Writings/Journal/Why do these need to have a name 122918.md",
+                "file": "Resources/Writings/My Writing Voice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why do these need to have a name 122918"
+              "title": "Outline of My Writing Voice"
             }
           },
           {
@@ -218,24 +218,25 @@
   },
   "active": "a8993a095971a463",
   "lastOpenFiles": [
-    "Resources/Writings/Journal/May 24th, 2022…a truly awful day.md",
+    "Resources/Writings/Journal/October 12, 2021 Blue Sky.md",
+    "Resources/Writings/My Writing Voice.md",
+    "Resources/Writings/Journal/October 27th, Denied.md",
     "Resources/Writings/Journal/September 10th, 2021 Unstuck.md",
+    "Resources/Writings/Journal/September 13th, 2021 Cursed Weekend.md",
     "Resources/Writings/Journal/Today her hair was crazy. I put her in her rocker and she just smiled and smiled..md",
-    "Resources/Writings/Journal/Tuesday May 3rd, 2022.md",
     "Resources/Writings/Journal/We are all Will Farrell.md",
+    "Resources/Writings/Journal/Why do these need to have a name 122918.md",
+    "Resources/Writings/Journal/May 24th, 2022…a truly awful day.md",
+    "Resources/Writings/Journal/Tuesday May 3rd, 2022.md",
     "Resources/Writings/Journal/We are all Will Farrell 1.md",
     "Resources/Writings/Journal/Wednesday May 4th, 2022.md",
-    "Resources/Writings/Journal/Why do these need to have a name 122918.md",
     "Templates/Daily Note.md",
-    "Resources/Writings/Journal/September 13th, 2021 Cursed Weekend.md",
     "Resources/Writings/Journal/September 9th, 2021 Porch rain.md",
     "Resources/Writings/Journal/September 8th, 2021.md",
     "Resources/Writings/Journal/Prep for Dr Lori.md",
     "Resources/Writings/Journal/Personal Principles.md",
-    "Resources/Writings/Journal/October 27th, Denied.md",
     "Resources/Writings/Journal/October 23, 2021 Gordo’s Ceremony speech.md",
     "Resources/Writings/Journal/October 21st, 2021.md",
-    "Resources/Writings/Journal/October 12, 2021 Blue Sky.md",
     "Resources/Writings/Journal/October 5th, 2021 On the mend.md",
     "Resources/Writings/Journal/November 24, 2021 Heidi.md",
     "Resources/Writings/Journal/November 23rd, 2021 Enough.md",
@@ -243,7 +244,6 @@
     "Resources/Writings/Journal/November 3rd, 2021.md",
     "Resources/Writings/Journal/November 2nd, 2021.md",
     "Resources/Writings/Journal/Nagging Advice.md",
-    "Resources/Writings/Journal/My 2025 Lookforward (Goals).md",
     "Resources/Writings/Journal",
     "Resources/Writings",
     "Vault Index.base",

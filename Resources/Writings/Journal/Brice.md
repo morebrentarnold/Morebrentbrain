@@ -1,5 +1,3 @@
-# Brice
-
 Tonight i read the story below and I cried. I probably would have cried before you were born.
 
 But I cried understanding the hurt they must have felt. I now understand what love really is Billie. I know you will too one day. Love makes us deeper and richer people. 

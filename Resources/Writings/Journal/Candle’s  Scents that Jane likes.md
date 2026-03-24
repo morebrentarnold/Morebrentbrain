@@ -1,5 +1,3 @@
-# Candle’s / Scents that Jane likes
-
 Smoked cardamom and honey
 Tabac could
 Sea salt

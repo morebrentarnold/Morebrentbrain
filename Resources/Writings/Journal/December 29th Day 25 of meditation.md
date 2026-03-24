@@ -1,5 +1,3 @@
-# December 29th: Day 25 of meditation
-
 Meditated this morning. On my way downstairs I woke up Olive. So that was frustrating.
 
 I couldn’t meditate well. I kept feeling the soreness of parts of my back. And I couldn’t focus enough on my breath.

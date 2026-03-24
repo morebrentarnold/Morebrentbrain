@@ -1,4 +1,3 @@
-# Monday April 25th, 2022: Day 1 Messenger
 **Journal**
 
 9:36 AM Just starting to dig into. Feeling a bit overwhelmed. Need to focus on onboarding items first

@@ -1,4 +1,3 @@
-# October 5th, 2021: On the mend
 Im sitting legs crossed on the couch at 5:59am. I did a session of meditation and I was trying to do another short one but Olive woke up and Jane is getting her. I can hear the baby upstairs from down here and I can hear Jane walking to her bedroom.
 
 Side thought: For the past 8 years? We’ve lived in a house where we can hear each other walk around. Maybe its time we really find a place with space so we dont hear everything and also risk waking kids up.

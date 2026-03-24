@@ -1,5 +1,3 @@
-# Monday April 11, 2022
-
 Collaboration 1:1 tool - https://www.internalfb.com/my_journey/collaboration
 Grow App
 Reach out to Education Counsil

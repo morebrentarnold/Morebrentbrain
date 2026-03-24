@@ -1,4 +1,3 @@
-# 10/18: red-eye
 Today
 What day is it? I’m sitting in row 6E (middle seat in and extend seat right next to exit door so I’ve got no seats into from of me) on a red-eye from SF to NYC. The cabin lights are dim and the guy to my right is snoring while the guy to my left is shitting his brains out in the bathroom. 
 

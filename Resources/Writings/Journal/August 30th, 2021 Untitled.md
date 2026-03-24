@@ -1,4 +1,3 @@
-# August 30th, 2021: Untitled
 Picking this back up after 2 years away. I did try with another app/format but it didn’t stick for a number of reasons.
 
 Im starting this again for a number of reasons:

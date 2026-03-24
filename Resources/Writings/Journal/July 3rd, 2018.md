@@ -1,4 +1,3 @@
-# July 3rd, 2018
 ==Believe in the world==
 The world is yours Billie. You can make it whatever you want it to be. That is the emotion and belief I want to instill into Billie. That is what I felt right when I saw you.
 

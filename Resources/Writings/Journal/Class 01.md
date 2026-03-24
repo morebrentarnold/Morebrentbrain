@@ -1,5 +1,3 @@
-# Class 01
-
 
 
 What am I thinking about?

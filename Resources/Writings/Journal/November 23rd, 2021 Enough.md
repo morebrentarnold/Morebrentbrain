@@ -1,4 +1,3 @@
-# November 23rd, 2021: Enough
 I havent written in a couple of weeks. And tonight im mainly writing to capture what’s been in my head about Jane
 
 We’ve had an even worse 1.5 weeks. This stupid Palm Springs trip just pushed us / her over the edged. As well as the cranial helmet.

@@ -1,4 +1,3 @@
-# August 29th: broken doll
 Tonight was (another) bad night with Billie. 
 
 Last night we went out to dinner and she started running around j the restaurant not listening and just being an overly defiant 4 year old.

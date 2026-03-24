@@ -1,4 +1,3 @@
-# Father’s Day 06.17.18
 I’m sitting on the couch with your mom waiting for the next contraction. I had a vague idea of what this period would be like, or rather one path this would take. And its tough and long and a bit boring ;). 
 
 But I’m also pretty emotional. It could be the lack of sleep.

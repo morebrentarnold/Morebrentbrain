@@ -1,4 +1,3 @@
-# Monday April 18th, 2022
 What to tackle this week
 - [x] Reset Calendar
 - [ ] Reset Google Docs for Messenger

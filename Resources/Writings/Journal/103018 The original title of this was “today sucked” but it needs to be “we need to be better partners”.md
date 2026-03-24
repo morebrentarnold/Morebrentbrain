@@ -1,4 +1,3 @@
-# 10/30/18: The original title of this was “today sucked” but it needs to be “we need to be better partners”
 I called Jane a bitch today. Worse I yelled it at her from far away. Even worse I did it in front of Billie. 
 
 Then I punched the diaper pail in front of Billie and put a dent in it.

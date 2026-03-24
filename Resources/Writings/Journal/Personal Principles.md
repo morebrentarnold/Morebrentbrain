@@ -1,5 +1,3 @@
-# Personal Principles
-
 
 ## Making a mess
 Where did this recently come from: [Why do these need to have a name?: 12/29/18](bear://x-callback-url/open-note?id=35AA9593-A0A6-4DA9-B142-C399CB1474DE-595-0001105E133BE271)

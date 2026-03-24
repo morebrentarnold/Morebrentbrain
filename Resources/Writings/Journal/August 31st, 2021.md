@@ -1,5 +1,3 @@
-# August 31st, 2021:
-
 Just shared this with Jane as I was reading old entries:
 ![](August%2031st,%202021/95120F17-7D35-4C29-936E-F7ECC267191B.png)
 

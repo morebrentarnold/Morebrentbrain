@@ -1,4 +1,3 @@
-# November 7th, 2021: Carrying it through
 Thie tough part about journaling is when you miss some days and tough things happen you cant capture them as easily.
 
 Weekend was a continuation of the struggles we had on November 2nd. Sort of.

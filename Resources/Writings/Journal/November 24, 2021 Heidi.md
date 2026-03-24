@@ -1,4 +1,3 @@
-# November 24, 2021: Heidi
 I met with Heidi today and it was messy. We dived into my relationship with Jane and it was a lot to cover.
 
 But we ended with a few helpful suggestions:

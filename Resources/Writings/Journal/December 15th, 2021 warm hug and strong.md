@@ -1,5 +1,3 @@
-# December 15th, 2021: warm hug and strong
-
 During meditation this morning when thinking about motivation was having trouble focusing on it.
 
 So I did a small reset and paused the app. And I heard Olive move around on the monitor.

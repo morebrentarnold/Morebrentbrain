@@ -1,4 +1,3 @@
-# September 9th, 2021: Porch rain
 Writing quickly before Billie gets completely up and comes downstairs.
 
 Got up early, stretched my back in the gym and came out to the porch to practice meditation. So/so on the success. Was hard to get comfortable and the noises bothered me more than I had hoped. 

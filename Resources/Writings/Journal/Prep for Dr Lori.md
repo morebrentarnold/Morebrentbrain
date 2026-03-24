@@ -1,5 +1,3 @@
-# Prep for Dr Lori
-
 Would love to leave with a recommendation on how we get help:
 Couples therapy, family therapy
 

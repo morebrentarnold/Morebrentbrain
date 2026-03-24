@@ -1,4 +1,3 @@
-# December 12th, 2021: Tired of sleeping on the couch, also known as the title I didnt want
 I was planning on taking time tonight to write down how Im feeling about returning to work, after 3-4 months of parental leave. Which I will still aim to do.
 
 **Couch sleeping**

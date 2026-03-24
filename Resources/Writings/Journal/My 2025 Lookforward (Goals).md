@@ -1,5 +1,3 @@
-# My 2025 Lookforward (Goals)
-
 Im taking a stab at a new to me approach for the new year and writing out a lookfward on the goals I want to acheive for myself this year.  Im going to share this with Jane and (parts of it) with Adam.
 
 ## **What’s the number one change you need to make in the next year?**

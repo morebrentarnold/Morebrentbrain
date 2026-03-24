@@ -1,4 +1,3 @@
-# Tuesday May 3rd, 2022
 Increase Atlas FoA Scope
 Migrating to the Atlas infrastructure and architecture patterns
 Expand Atlas Platform Offerings

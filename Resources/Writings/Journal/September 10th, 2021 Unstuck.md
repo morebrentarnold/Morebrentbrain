@@ -1,4 +1,3 @@
-# September 10th, 2021: Unstuck
 I’ve been stuck for days (weeks actually). Feeling like I have an ever growing list of things I want and need to do. And I sometimes make some progress but most of the days when I try to tackle anything it either digs up more issues or just goes no where.
 
 But I feel like I popped open a hole in the Dam and some movement is going through. What happened? I finally figured out how I can clean the mats (at least 80% better) AND I reprogrammed the garage door opener.

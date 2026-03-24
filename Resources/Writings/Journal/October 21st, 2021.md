@@ -1,4 +1,3 @@
-# October 21st, 2021
 A day of news.
 
 Last night Jane and I both slept like shit. Because of alcohol is the truth.
