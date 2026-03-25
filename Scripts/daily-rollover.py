@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-rollover.py — Morning startup script for daily notes.
+daily-rollover.py — Morning startup script for daily notes.
 
 1. Creates today's daily note from the template if it doesn't exist.
-2. Moves incomplete tasks from yesterday's 🎯 Today section into
-   today's ⏫ Next Up section, then removes them from yesterday's note.
+2. Moves incomplete tasks from yesterday's note into today's matching sections:
+     🎯 Today   → 🎯 Today
+     ⏫ Next Up  → ⏫ Next Up
+     🔽 Low Pri  → 🔽 Low Pri
+   Completed tasks stay in yesterday's note as a record.
 
 Usage:
-    python3 /path/to/Morebrentbrain/Scripts/rollover.py
+    python3 ~/Morebrentbrain/Scripts/daily-rollover.py
 """
 
 import sys
@@ -25,11 +28,13 @@ YESTERDAY = TODAY - timedelta(days=1)
 yesterday_file = DAILY / f"{YESTERDAY}.md"
 today_file = DAILY / f"{TODAY}.md"
 
+# Sections to roll over, in the order they appear in the note
+ROLLOVER_SECTIONS = ["🎯 Today", "⏫ Next Up", "🔽 Low Pri"]
+
 # ── Step 1: Create today's note from template if needed ──────────────────────
 
 def render_template(template_path: Path, for_date: date) -> str:
     """Resolve Templater date expressions in the daily note template."""
-    # Map Templater format tokens to Python strftime equivalents.
     # Order matters: longer tokens must be replaced before shorter ones
     # (e.g. MMMM before MM, dddd before DD before D).
     FORMAT_MAP = {
@@ -49,17 +54,15 @@ def render_template(template_path: Path, for_date: date) -> str:
 
     def resolve_tp_date(match):
         args = match.group(1).strip()
-        # Pull the quoted format string, then look for an optional integer offset after it
         fmt_match = re.match(r'"([^"]+)"(?:\s*,\s*(-?\d+))?', args)
         if not fmt_match:
-            return match.group(0)  # leave unrecognised expressions untouched
+            return match.group(0)
         fmt = convert_format(fmt_match.group(1))
         offset_days = int(fmt_match.group(2)) if fmt_match.group(2) else 0
         target = for_date + timedelta(days=offset_days)
         return target.strftime(fmt)
 
     text = template_path.read_text(encoding="utf-8")
-    # Replace all <% tp.date.now(...) %> expressions
     text = re.sub(r"<%\s*tp\.date\.now\(([^)]+)\)\s*%>", resolve_tp_date, text)
     return text
 
@@ -67,8 +70,7 @@ if not today_file.exists():
     if not TEMPLATE.exists():
         print(f"Template not found: {TEMPLATE}")
         sys.exit(1)
-    note_content = render_template(TEMPLATE, TODAY)
-    today_file.write_text(note_content, encoding="utf-8")
+    today_file.write_text(render_template(TEMPLATE, TODAY), encoding="utf-8")
     print(f"Created {today_file.name}")
 
 # ── Step 2: Roll over incomplete tasks ───────────────────────────────────────
@@ -78,8 +80,7 @@ if not yesterday_file.exists():
     sys.exit(0)
 
 def parse_sections(text):
-    """Split note text into [(heading_line, [body_lines]), ...].
-    Content before the first ## heading gets heading_line=None."""
+    """Split note text into [(heading_line, [body_lines]), ...]."""
     sections = []
     current_heading = None
     current_body = []
@@ -104,16 +105,18 @@ today_text = today_file.read_text(encoding="utf-8")
 yesterday_sections = parse_sections(yesterday_text)
 today_sections = parse_sections(today_text)
 
-# Extract incomplete tasks from yesterday's 🎯 Today, remove them from that section
-rollover_tasks = []
+# Extract incomplete tasks per section from yesterday
+# { "🎯 Today": [...lines...], "⏫ Next Up": [...], "🔽 Low Pri": [...] }
+rollover = {s: [] for s in ROLLOVER_SECTIONS}
 new_yesterday_sections = []
 
 for heading, body in yesterday_sections:
-    if heading and "🎯 Today" in heading:
+    matched = next((s for s in ROLLOVER_SECTIONS if s in (heading or "")), None)
+    if matched:
         kept = []
         for line in body:
             if INCOMPLETE.match(line.rstrip()):
-                rollover_tasks.append(line if line.endswith("\n") else line + "\n")
+                rollover[matched].append(line if line.endswith("\n") else line + "\n")
             else:
                 kept.append(line)
         # Keep a blank placeholder if no real tasks remain
@@ -123,17 +126,18 @@ for heading, body in yesterday_sections:
     else:
         new_yesterday_sections.append((heading, body))
 
-if not rollover_tasks:
-    print("Nothing to roll over — no incomplete tasks in yesterday's 🎯 Today.")
+total = sum(len(v) for v in rollover.values())
+if total == 0:
+    print("Nothing to roll over — no incomplete tasks found in yesterday's note.")
     sys.exit(0)
 
-# Insert rollover tasks at the top of today's ⏫ Next Up
+# Insert rolled tasks at the top of each matching section in today's note
 new_today_sections = []
-inserted = False
 
 for heading, body in today_sections:
-    if heading and "⏫ Next Up" in heading:
-        new_body = list(rollover_tasks)
+    matched = next((s for s in ROLLOVER_SECTIONS if s in (heading or "")), None)
+    if matched and rollover[matched]:
+        new_body = list(rollover[matched])
         for line in body:
             if line.strip() == "- [ ]":  # drop bare placeholders
                 continue
@@ -141,17 +145,15 @@ for heading, body in today_sections:
         if not any(l.strip() not in ("", "- [ ]") for l in new_body):
             new_body.append("- [ ] \n")
         new_today_sections.append((heading, new_body))
-        inserted = True
     else:
         new_today_sections.append((heading, body))
-
-if not inserted:
-    print("Warning: ⏫ Next Up section not found in today's note — rollover skipped.")
-    sys.exit(1)
 
 yesterday_file.write_text(rebuild(new_yesterday_sections), encoding="utf-8")
 today_file.write_text(rebuild(new_today_sections), encoding="utf-8")
 
-print(f"Rolled over {len(rollover_tasks)} task(s) from {yesterday_file.name} → {today_file.name}")
-for t in rollover_tasks:
-    print(f"  {t.rstrip()}")
+print(f"Rolled over {total} task(s) from {yesterday_file.name} → {today_file.name}")
+for section in ROLLOVER_SECTIONS:
+    if rollover[section]:
+        print(f"\n  {section}")
+        for t in rollover[section]:
+            print(f"    {t.rstrip()}")

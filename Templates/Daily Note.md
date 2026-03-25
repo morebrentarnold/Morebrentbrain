@@ -9,19 +9,7 @@ tags: [daily]
 
 
 ## 🎯 Today
-
-```dataviewjs
-const yesterday = dv.date("today").minus({days: 1}).toFormat("yyyy-MM-dd");
-const pages = dv.pages(`"Daily/${yesterday}"`);
-const tasks = pages.file.tasks.where(t => !t.completed);
-if (tasks.length > 0) {
-    dv.taskList(tasks, false);
-} else {
-    dv.paragraph("_No incomplete tasks from yesterday._");
-}
-```
-
-- [ ]
+- [ ] 
 
 ## ⏫ Next Up
 - [ ] 
