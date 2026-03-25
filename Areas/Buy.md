@@ -15,3 +15,4 @@ tags: [evergreen]
 - [ ] Le creuset Dutch oven
 - [ ] Skillet
 - [ ] Toolbox
+- [ ] Humidor
