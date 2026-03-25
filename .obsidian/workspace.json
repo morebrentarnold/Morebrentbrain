@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a8993a095971a463",
+  "active": "352a89bf4a8ecbe3",
   "lastOpenFiles": [
     "Daily/2026-03-25.md",
     "Projects/Charleston 2026.md",
