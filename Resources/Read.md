@@ -17,3 +17,62 @@ tags: [evergreen]
 - [ ] In the Shadows: True Stories
 - [ ] Rise and Fall of the 3rd Reich
 - [ ] Ed Catmull - Creativity, Inc.
+- [ ] Before the Coffee Gets Cold
+- [ ] Donella Meadows - Leverage Points
+- [ ] Afterlives
+- [ ] Nothing to See Here
+- [ ] Chatter
+- [ ] Four Agreements
+- [ ] Call Your Mother
+- [ ] Read Next: Articulating Design Decisions
+- [ ] Dilla Time
+- [ ] The Changing World Order
+- [ ] The Longevity Code by Dr Kris
+- [ ] Last Night a DJ Saved My Life
+- [ ] Why Buddhism is Right
+- [ ] Please Kill Me
+- [ ] Never Again Can I Be So Lucky
+- [ ] No One is Talking About This
+- [ ] City We Became
+- [ ] Jamie Oliver - 5 Ingredient Cookbook
+- [ ] Extreme Ownership
+- [ ] Influence at Work
+- [ ] Barbarian Surf
+- [ ] Read About Charles and Ray
+- [ ] Best Books of the 90s
+- [ ] Linden Johnson - Master of the Senate
+- [ ] Emily Wilson - The Odyssey
+- [ ] Toni Morrison
+- [ ] Nadia Books
+- [ ] Picture (New York Review Books)
+- [ ] All the Light You Cannot See
+- [ ] Margaret Stuart-Gould - Ethics
+- [ ] The Beginning of Infinity
+- [ ] Culture Code
+- [ ] Barbarian Days - rec Chris X
+- [ ] Love Goes to Buildings on Fire
+- [ ] Doughnut Economics
+- [ ] Difficult Women
+- [ ] Ducks Newburyport
+- [ ] The Righteous Mind by Jonathan Haidt
+- [ ] The Mezzanine Book
+- [ ] Lurking: How a Person Became a User
+- [ ] This Could Be Our Future
+- [ ] Confederate of Dunces
+- [ ] Trillion Dollar Coach by Phil C
+- [ ] Culture Studybook from Skyler
+- [ ] Jason Reynolds
+- [ ] Shogun
+- [ ] Poetry
+- [ ] Managing Chaos: Digital Governance
+- [ ] North Woods Book
+- [ ] Rules of Attraction
+- [ ] NYC Hotel
+- [ ] Fajrry
+- [ ] Operation Solo
+- [ ] My Life as a Quant
+- [ ] Life of Chuck
+- [ ] In the Wake of Covid
+- [ ] You Dreamed of Empires
+- [ ] Girlhood
+- [ ] Into the Castle James Spay
