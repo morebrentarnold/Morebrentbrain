@@ -5,17 +5,31 @@
 
 ## Plan
 
-- Thursday
+- **Thursday**
 	- 2pm - Arrival
-		- Dinner
+		- Dinner 
+			- 8pm: Slightly North of Broad
+				- 192 E Bay St
+				- Charleston, SC 29401
+			- Alts:
+				- [Chubby Fish](https://www.reddit.com/r/Charleston/comments/1cnalii/best_date_night_restaurants_that_requirehave/) (Coming Street):*
+					- A very intimate, highly regarded spot focusing on local, sustainable seafood. It is first-come, first-serve, so try arriving around 4:15–4:30 PM for a 5:00 PM opening to secure a spot.
+				- Seahorse
+					- 254 Coming St, Charleston, SC 29403
+				- 167 Oyster bar
+					- https://www.167rawoysterbar.com/
+					- 193 King St, Charleston, SC 29401
 
-- Friday
+- **Friday**
+	- During the day
+		- 167 Oyster bar
+			- Mon - Sat: 11AM - 11PM
 	- 7:45 PM
 		- Dinner @ The Ordinary
 			- This 1920s bank now houses an upscale seafood restaurant with high ceilings, large windows & a bar.
 
 
-- Saturday
+- **Saturday**
 	- 11:44am flight out
 
 
