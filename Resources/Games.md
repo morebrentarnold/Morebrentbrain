@@ -12,3 +12,4 @@ tags: [evergreen]
 - [ ] Unknown Amilea board game
 - [ ] PlayStation Friday 13th
 - [ ] Dragon Quest 3
+- [ ] Outer Wilds
