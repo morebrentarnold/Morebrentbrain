@@ -2,14 +2,37 @@
 ## Sitters
 
 - Thursday
-	- 8am leave
-	- 
-	- 1145am flight
-	-
+	- Morning
+		- 8am leave
+			- Billie - Liz/Court
+			- Olive - Mathews?
+
+		- 1145am flight
+	- Afternoon
+		- Aidin gets olive
+		- Drops her with Abby at 3pm
+		- ==Need to figure out Billie==
+		- Abby takes them to dinner
+		- Aidin picks up girls from Abby
+	- Night
+		- Girls stay with Aidin
 - Friday
+	- All day Aidin
 - Saturday
+	- We arrive back around 3
+	- Need to figure out if someone can get kids from Aidin in AM
+		- ==Suzy / Terry?==
+		- ==Abby?==
 
 ## Hotel
+
+- Palmetto
+	- (877) 955-1515.
+	- Conf # **380786861**
+	- Check In
+		- 4:00 PM
+	- Check Out
+		- 11:00 AM
 
 ## Plan
 
