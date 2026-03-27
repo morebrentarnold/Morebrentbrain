@@ -2,7 +2,10 @@
 ## Sitters
 
 - Thursday
+	- 8am leave
 	- 
+	- 1145am flight
+	-
 - Friday
 - Saturday
 
