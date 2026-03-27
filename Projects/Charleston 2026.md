@@ -1,6 +1,11 @@
 
 ## Sitters
 
+- Thursday
+	- 
+- Friday
+- Saturday
+
 ## Hotel
 
 ## Plan

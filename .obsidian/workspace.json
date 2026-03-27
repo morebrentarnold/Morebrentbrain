@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-26.md",
+                "file": "Projects/Charleston 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-26"
+              "title": "Charleston 2026"
             }
           }
         ],
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-03-26.md",
+                "file": "Projects/Charleston 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-26"
+              "title": "Outline of Charleston 2026"
             }
           },
           {
@@ -218,8 +218,8 @@
   },
   "active": "a8993a095971a463",
   "lastOpenFiles": [
-    "Resources/Games.md",
     "Daily/2026-03-26.md",
+    "Resources/Games.md",
     "Resources/Writings/Journal/2026.03.25 prepping for Ebru.md",
     "Resources/Writings/Journal/Why do these need to have a name 122918.md",
     "Resources/Writings/My Writing Voice.md",
