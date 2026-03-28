@@ -9,15 +9,19 @@ tags: [daily]
 
 
 ## 🎯 Today
+
 - [ ] 
 
 ## ⏫ Next Up
+
 - [ ] 
 
 ## 🔽 Low Pri
+
 - [ ] 
 
 ## 🛒 Buy
+
 - [ ] 
 
 ---
