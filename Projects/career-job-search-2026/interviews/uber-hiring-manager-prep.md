@@ -95,6 +95,26 @@ Design System-led development of a structured approach to managing and utilizing
 - How you stay close to craft without bottlenecking the team
 - Design review philosophy
 
+
+## My notes from Call
+
+**Leads Rider Design**
+- Rider core
+- Verticals
+- Mapping
+- Autonomus
+
+Team overall is 52 with 10 open heads
+
+1 of 5 Product Design Managers
+Design Program Manager
+
+Ride X and Mobility Growth space
+
+
+
+
+
 ## Questions They'll Likely Ask
 
 ### 1. "Tell me about your experience at Meta leading Design Systems"
@@ -128,7 +148,7 @@ Design System-led development of a structured approach to managing and utilizing
 - Do you know when to dive deep vs. delegate?
 
 **Your Answer Framework:**
-- **Philosophy**: "I believe great design leaders need to do both—you can't set a quality bar you don't understand, but you also can't review every pixel."
+- ==**Philosophy**: "I believe great design leaders need to do both—you can't set a quality bar you don't understand, but you also can't review every pixel."==
 - **How I Decide**: "I zoom in on high-leverage moments: critical launches, new patterns that set precedent, when teams are stuck on a hard problem. I zoom out on well-scoped work where the team has context and momentum."
 - **Practical Example**: "For example, at Meta, I'd personally review [specific type of work], but I'd delegate [other type] to senior designers I trust. I also coach my managers on how to give effective design feedback so they can maintain the bar."
 - **Avoid Bottlenecks**: "I timebox my reviews, give clear feedback quickly, and make sure teams know my decision-making criteria so they can self-serve."
@@ -141,9 +161,11 @@ Design System-led development of a structured approach to managing and utilizing
 
 **30-Second Answer (Use This):**
 
-*"I think of my role as creating clarity — on the problem, priorities, and quality bar — so teams can move quickly and make good decisions without needing constant oversight.*
-*I try to scale through my managers by coaching how they think and make decisions, while staying close to key moments where product direction or quality really matters.*
-*And I spend a lot of time turning good decisions into repeatable systems, so we're not reinventing things across teams."*
+==*"I think of my role as creating clarity — on the problem, priorities, and quality bar — so teams can move quickly and make good decisions without needing constant oversight.*==
+
+==*I try to scale through my managers by coaching how they think and make decisions, while staying close to key moments where product direction or quality really matters.==
+==*==
+==*And I spend a lot of time turning good decisions into repeatable systems, so we're not reinventing things across teams."==*
 
 **The 5 Pillars Underneath It:**
 
