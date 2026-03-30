@@ -17,6 +17,22 @@ status: active
 - **Format**: 45 minutes — interview questions + one case study to present
 - **Zoom**: https://uber.zoom.us/j/96095837719?pwd=xGFkaONaUZCbbD85NUSnEn0L4oZQ23.1 | ID: 96095837719 | Password: 026573
 - **Portfolio**: https://docs.google.com/presentation/u/1/d/1sQVf257uqayVJLChaL6oBNNaVInuECDj6a-X1GZolUM/edit?slide=id.g10e1773a07b_0_0
+
+## Case Studies Being Prepped
+
+### 1. Simplifying Facebook ⭐
+Multi-half Design System-led program focused on decluttering Facebook to help it refocus on driving authentic connections with friends and family.
+- [Slides](https://docs.google.com/presentation/d/1Nc8ldsP286DmI1H612Jsy6I5uQzhmvgeJjZalkal6cg/edit?slide=id.g33bf83b83f1_4_1530)
+
+### 2. Messenger Notes
+- [Figma Prototype](https://www.figma.com/proto/6v0gakIj4bxHbC8Y5jsgG8/Messenger-Notes?node-id=1-55735&t=UttTeS2eeY0qP4gp-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+
+### 3. Lyft — Bikes & Scooters: Winning the City
+- [Slides](https://docs.google.com/presentation/d/1fUN1GX0LMAsYjfGxaXZD-Z35Cq4yw44LpBfz2sXJylY/edit?slide=id.g392762a8384_0_449)
+
+### 4. Visual Asset Framework (VAF) ⭐
+Design System-led development of a structured approach to managing and utilizing visual assets (icons and illustrations) across the Facebook App.
+- [Figma Slides](https://www.figma.com/slides/X23KVV16neh8C9WgGNQnX1/Visual-Asset-Framework--VAF-?node-id=1-128409&t=Qeab08v9XwjOVMve-1)
 - **What They Care About**:
   - Can you successfully consolidate two teams?
   - Will you set the right quality bar while shipping fast?
