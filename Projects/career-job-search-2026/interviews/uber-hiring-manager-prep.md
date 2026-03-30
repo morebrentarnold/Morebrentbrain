@@ -104,9 +104,9 @@ Design System-led development of a structured approach to managing and utilizing
 - How do you influence without authority?
 
 **Your Answer Framework:**
-- **Scope**: "I lead Design Systems and Foundations for Facebook, supporting [X] designers and [Y] engineers across web, mobile, and emerging platforms"
-- **Challenge**: "The biggest challenge is balancing consistency with flexibility—we need components that work across hundreds of product surfaces while letting teams move fast"
-- **Approach**: "I focus on three things: [1] Setting quality standards through reviews and critique, [2] Scaling through documentation and tools, [3] Building a team culture of craft + velocity"
+- ==**Scope**: "I lead Design Systems and Foundations for Facebook, supporting [X] designers and [Y] engineers across web, mobile, and emerging platforms"==
+- ==**Challenge**: "The biggest challenge is balancing consistency with flexibility—we need components that work across hundreds of product surfaces while letting teams move fast"==
+- ==**Approach**: "I focus on three things: [1] Setting quality standards through reviews and critique, [2] Scaling through documentation and tools, [3] Building a team culture of craft + velocity"==
 - **Impact**: Mention specific outcomes if you have them (adoption rates, designer efficiency, product quality improvements)
 
 ### 2. "This role is consolidating two existing PDM positions. How would you approach that?"
@@ -214,11 +214,11 @@ Prepare 1-2 stories from Meta that show:
 
 **Your Answer Framework:**
 - **What You're Moving Toward** (not what you're leaving):
-  - "I've loved building design systems at Meta, but I'm at a point where I want to lead product design for a consumer experience that's core to the business"
+  - =="I've loved building design systems at Meta, but I'm at a point where I want to lead product design for a consumer experience that's core to the business"==
   - "Uber's Rider app is that front-door experience—millions of people use it daily, and design quality directly impacts the business"
   - "The opportunity to consolidate and grow this team while staying close to craft is exactly the kind of challenge I'm looking for"
 - **Why Uber Specifically**:
-  - Real-world impact (transportation affects daily life)
+  - ==Real-world impact (transportation affects daily life)==
   - Multi-sided marketplace complexity
   - Design-led culture (if you've learned this is true!)
   - [Any personal connection: love cities, care about mobility, etc.]
@@ -231,7 +231,7 @@ Prepare 1-2 stories from Meta that show:
 
 ### About the Role (Ask 3-4)
 
-- AI-Native Designers
+- AI-Native teams and impact on how Uber builds moving forward
 
 1. **"Can you walk me through why Uber is consolidating these two PDM roles? What's the vision for combining Rider + Rider Growth design?"**
    - Shows strategic thinking
