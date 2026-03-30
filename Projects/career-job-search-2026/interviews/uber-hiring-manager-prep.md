@@ -1,18 +1,22 @@
 ---
-title: Uber Hiring Manager Prep - Design Director
+title: Uber Hiring Manager Prep - Bud Intonato
 date: 2026-03-14
 tags: [uber, hiring-manager, design-director]
 status: active
 ---
 
-# Uber Hiring Manager Interview Prep - Design Director (NYC)
+# Uber Hiring Manager Interview Prep - Bud Intonato (Design Director, NYC)
 
 ## Interview Context
 
 ### Who You're Meeting
+- **Name**: Bud Intonato
 - **Role**: Design Director, Uber (based in NYC)
 - **Relationship**: This would be your direct manager
 - **Location**: 3 World Trade Center, NYC
+- **Format**: 45 minutes — interview questions + one case study to present
+- **Zoom**: https://uber.zoom.us/j/96095837719?pwd=xGFkaONaUZCbbD85NUSnEn0L4oZQ23.1 | ID: 96095837719 | Password: 026573
+- **Portfolio**: https://docs.google.com/presentation/u/1/d/1sQVf257uqayVJLChaL6oBNNaVInuECDj6a-X1GZolUM/edit?slide=id.g10e1773a07b_0_0
 - **What They Care About**:
   - Can you successfully consolidate two teams?
   - Will you set the right quality bar while shipping fast?

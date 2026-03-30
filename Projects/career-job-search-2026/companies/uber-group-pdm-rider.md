@@ -151,7 +151,7 @@ status: active
 - [x] Application submitted
 - [x] Recruiter call with Jennifer - **COMPLETED 3/11/26**
 - [x] Portfolio sent (Experience Overview deck) - **SENT & SHARED WITH HM**
-- [ ] **NEXT: 1:1 with Hiring Manager (Design Director, NYC)**
+- [ ] **NEXT: 1:1 with Hiring Manager — Bud Intonato (Design Director, NYC)** — 45 min, bring one case study
 - [ ] Design team interviews (TBD)
 - [ ] Cross-functional interviews (TBD)
 - [ ] Final/exec round (TBD)
