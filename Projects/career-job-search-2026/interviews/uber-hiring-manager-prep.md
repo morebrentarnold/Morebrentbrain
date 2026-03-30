@@ -172,13 +172,24 @@ Prepare 1-2 stories from Meta that show:
 - Can you think like a product leader?
 - Do you understand the business?
 
-**Your Answer Framework:**
-- **Show You've Done Homework**: "I've been using the Rider app for [timeframe] and paying attention to [specific features/flows]"
-- **Identify Real Issues**: Point out 1-2 specific UX opportunities (be constructive, not critical!)
-  - Example: "I notice the home screen has gotten complex with Eats, Reserve, Package delivery. I wonder how you balance discoverability with simplicity."
-  - Example: "The booking flow is fast, but I'm curious about riders who want more control—pricing transparency, driver preferences, etc."
-- **Connect to Business**: Show you understand the tension between growth (more features) and core experience (simplicity)
-- **Ask Smart Question**: "What are the top priorities for the Rider team right now? Where do you see the biggest opportunities?"
+**Your POV (developed in prep — use this):**
+
+*"The core Rider promise is simple — get me a car, fast. But the home screen is doing a lot more than that right now, and not always in ways that feel relevant.*
+
+*My instinct is that Uber is trying to expand usage before fully earning the core habit. The right sequence is: nail reliability and the booking experience first, then earn the right to show me more.*
+
+*And as users become more AI-native, the bar for personalization is only going up. People expect their apps to actually know them. A generic For You section that recommends Seniors rides to a 40-year-old isn't just noise — it's a trust signal that the product doesn't really know me. The opportunity is to make that surface genuinely intelligent, not just present.*
+
+*When I see data showing higher LTV from feature engagement, I'd also want to understand what we're not measuring — churn, abandonment, users who bounced and never came back."*
+
+**Underlying principles:**
+- **Progressive disclosure**: Core utility first, earn the right to show more
+- **Personalization bar is rising**: AI-native users expect the app to know them — generic cross-sell feels lazy
+- **Interrogate the data**: LTV is one signal; what's not being measured (churn, abandonment)?
+
+**Tension to hold:** The growth surface matters to Uber's business — the answer isn't to remove it, it's to make it genuinely intelligent.
+
+**Ask Smart Question**: "What are the top priorities for the Rider team right now? Where do you see the biggest opportunities?"
 
 ### 7. "Why leave Meta? Why Uber?"
 **What They're Really Asking:**
