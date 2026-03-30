@@ -139,13 +139,28 @@ Design System-led development of a structured approach to managing and utilizing
 - What's your leadership style?
 - Will you fit Uber's culture?
 
-**Your Answer Framework:**
-- **Core Belief**: "I believe [your core belief—e.g., 'great design comes from empowered teams who understand the why, not just the what']"
-- **How I Lead**: "I focus on [2-3 key principles]:
-  1. Clarity: Teams need clear goals, context, and decision rights
-  2. Growth: I invest heavily in coaching and career development
-  3. Craft: We ship high-quality work by being opinionated about what good looks like"
-- **Managing Managers**: "When managing managers, I shift from task-level coaching to strategic coaching—helping them build their own teams, unblock systemic issues, and develop their leadership voice."
+**30-Second Answer (Use This):**
+
+*"I think of my role as creating clarity — on the problem, priorities, and quality bar — so teams can move quickly and make good decisions without needing constant oversight.*
+*I try to scale through my managers by coaching how they think and make decisions, while staying close to key moments where product direction or quality really matters.*
+*And I spend a lot of time turning good decisions into repeatable systems, so we're not reinventing things across teams."*
+
+**The 5 Pillars Underneath It:**
+
+1. **Clarity > Control** — Align teams on the problem, the user, and success metrics. Let teams own how to solve it.
+   > "If teams are aligned on the problem and how success is measured, most solution debates resolve themselves."
+
+2. **Design as a System** — Turn good decisions into repeatable ones. Shared patterns, principles, scalable decisions — not one-off hero designs.
+   > "I try to turn good decisions into repeatable ones."
+
+3. **Scale Through Managers, Not Yourself** — Your job is not to be the best designer in the room. Coach decision-making, set expectations, create consistency (crits, rituals, standards).
+   > "At my level, impact comes from how well my managers operate, not how many decisions I personally make."
+
+4. **Hands-On at the Right Moments** — Step in when the problem is ambiguous, stakes are high, or quality bar is at risk. Avoid over-inserting.
+   > "I try to be present at the inflection points, not in every detail."
+
+5. **Speed and Quality Are a Design Problem** — Not a tradeoff. Reduce complexity, create clarity early, avoid over-design.
+   > "If we're slowing down, it's usually a signal the problem or constraints aren't clear enough."
 
 ### 5. "Tell me about a time you shipped something you were really proud of"
 **What They're Really Asking:**
@@ -215,6 +230,8 @@ Prepare 1-2 stories from Meta that show:
 ## Your Questions for the Design Director
 
 ### About the Role (Ask 3-4)
+
+- AI-Native Designers
 
 1. **"Can you walk me through why Uber is consolidating these two PDM roles? What's the vision for combining Rider + Rider Growth design?"**
    - Shows strategic thinking
