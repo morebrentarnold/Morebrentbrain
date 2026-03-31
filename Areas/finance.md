@@ -12,5 +12,6 @@ Ongoing financial health and planning.
 
 ## Tasks
 - [ ] Kid gums account and other
+- [ ] Fix Venmo account
 
 ## Notes

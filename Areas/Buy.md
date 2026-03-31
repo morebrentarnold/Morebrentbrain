@@ -6,6 +6,8 @@ tags: [evergreen]
 
 ## General
 - [ ] Billie toothbrush
+- [ ] Water pick
+- [ ] Karaoke machine for Billie birthday
 - [ ] Paddle board
 - [ ] Cigar box
 - [ ] Gordo peak cap

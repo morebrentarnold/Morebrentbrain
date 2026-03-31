@@ -14,6 +14,10 @@ Ongoing career development, leadership growth, and professional responsibilities
 - [ ] Land the right next role after Meta recharge
 - [ ] Continue growing as a design leader
 
+## Tasks
+- [ ] Toastmasters — explore joining
+- [ ] Set up Clawbot
+
 ## Active Projects
 - [[career-job-search-2026]]
 - [[executive-coaching]]
