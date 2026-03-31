@@ -11,3 +11,5 @@ tags: [evergreen]
 - [ ] Call plumbers
 - [ ] Playroom light / light for playroom
 - [ ] Water filter in fridge
+- [ ] Fix outdoor lights
+- [ ] Vacuum cleaner

@@ -28,3 +28,4 @@ Ongoing family responsibilities and relationships.
 - [[edward-tufts-farms-trip]]
 
 ## Notes
+- Make Valentine's Day a bigger deal for the girls (2027)
