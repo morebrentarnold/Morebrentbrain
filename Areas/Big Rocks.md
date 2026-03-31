@@ -11,29 +11,29 @@ These are my most important long-term priorities. Everything else serves these.
 - [x] Get a new PCP
 - [x] Get down to a happy weight (~200lbs)
 - [x] Tattoo removal
-- [ ] Move back into working out at home successfully
-- [ ] Get Full body scan (prenuva or the guy Jason recommended)
-- [ ] Meditation retreat (Spirit Rock?)
+- [x] Move back into working out at home successfully
+- [x] Get Full body scan (prenuva or the guy Jason recommended)
+- [x] Meditation retreat (Spirit Rock?)
 - [x] Start surfing again
 
 ## Career
-- [ ] Land the right next role after Meta recharge
+- [x] Land the right next role after Meta recharge
 
 ## Family
-- [ ] Sweet Jane polo
-- [ ] Land renovation plan that we are happy with
-- [ ] Edward tufts farms (family trip?)
-- [ ] Connect with Joey's parents and girlfriend
+- [x] Sweet Jane polo
+- [x] Land renovation plan that we are happy with
+- [x] Edward tufts farms (family trip?)
+- [x] Connect with Joey's parents and girlfriend
 
 ## Personal Growth
-- [ ] Build out second brain / personal ops system
-- [ ] Feel successful upon completing executive coaching
+- [x] Build out second brain / personal ops system
+- [x] Feel successful upon completing executive coaching
 
 ## Finance
 - [ ] 
 
 ## Creative 
-- [ ] Get DJ setup dialed in and playing regularly
-- [ ] Have a healthy drawing practice
-- [ ] Finish Defender Legos
-- [ ] Build a ship model
+- [x] Get DJ setup dialed in and playing regularly
+- [x] Have a healthy drawing practice
+- [x] Finish Defender Legos
+- [x] Build a ship model

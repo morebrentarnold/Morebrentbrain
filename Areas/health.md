@@ -7,8 +7,12 @@ status: active
 
 # Health
 
+## Goals
+- [ ] Re-establish home gym habit — working out consistently at home
+
 ## Tasks
 - [ ] Get a new PCP
+- [ ] Get full body scan (Prenuva or ask Jason for his recommendation)
 
 ## Current Injuries
 

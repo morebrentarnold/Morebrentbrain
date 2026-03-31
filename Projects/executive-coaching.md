@@ -1,14 +1,14 @@
 ---
 title: Executive Coaching
 date: 2026-03-28
-tags: [personal-growth, career]
+tags: [career]
 status: active
 ---
 
 # Executive Coaching
 
 **Outcome**: Feel successful upon completing executive coaching program
-**Area**: [[Personal Growth]]
+**Area**: [[Career]]
 
 ## Tasks
 - [ ] Define what "feeling successful" looks like at the end
