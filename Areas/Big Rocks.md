@@ -7,14 +7,14 @@ tags: [evergreen]
 These are my most important long-term priorities. Everything else serves these.
 
 ## Health
-- [ ] Full Achilles recovery — get back to full mobility and training
-- [ ] Get a new PCP
-- [ ] Get down to a happy weight (~200lbs)
-- [ ] Tattoo removal
+- [x] Full Achilles recovery — get back to full mobility and training
+- [x] Get a new PCP
+- [x] Get down to a happy weight (~200lbs)
+- [x] Tattoo removal
 - [ ] Move back into working out at home successfully
 - [ ] Get Full body scan (prenuva or the guy Jason recommended)
 - [ ] Meditation retreat (Spirit Rock?)
-- [ ] Start surfing again
+- [x] Start surfing again
 
 ## Career
 - [ ] Land the right next role after Meta recharge
