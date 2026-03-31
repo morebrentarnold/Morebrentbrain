@@ -25,8 +25,19 @@ TEMPLATE = VAULT / "Templates" / "Daily Note.md"
 TODAY = date.today()
 YESTERDAY = TODAY - timedelta(days=1)
 
-yesterday_file = DAILY / f"{YESTERDAY}.md"
+def archive_path(d: date) -> Path:
+    """Path where a past note should be archived: Daily/YYYY/MM/YYYY-MM-DD.md"""
+    folder = DAILY / str(d.year) / f"{d.month:02d}"
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{d}.md"
+
+# Today's note always lives at the Daily root for easy access
 today_file = DAILY / f"{TODAY}.md"
+
+# Yesterday's note: check root first, then archive location
+yesterday_root = DAILY / f"{YESTERDAY}.md"
+yesterday_archive = archive_path(YESTERDAY)
+yesterday_file = yesterday_root if yesterday_root.exists() else yesterday_archive
 
 # Sections to roll over, in the order they appear in the note
 ROLLOVER_SECTIONS = ["🎯 Today", "⏫ Next Up", "🔽 Low Pri"]
@@ -72,6 +83,13 @@ if not today_file.exists():
         sys.exit(1)
     today_file.write_text(render_template(TEMPLATE, TODAY), encoding="utf-8")
     print(f"Created {today_file.name}")
+
+# ── Step 1b: Archive yesterday's note if it's still at root ─────────────────
+
+if yesterday_root.exists():
+    yesterday_root.rename(yesterday_archive)
+    yesterday_file = yesterday_archive
+    print(f"Archived {yesterday_root.name} → Daily/{YESTERDAY.year}/{YESTERDAY.month:02d}/")
 
 # ── Step 2: Roll over incomplete tasks ───────────────────────────────────────
 
