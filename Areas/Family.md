@@ -12,6 +12,8 @@ Ongoing family responsibilities and relationships.
 
 ## Goals
 - [ ] Stay connected with extended family and build those relationships
+- [ ] Take Frank and Dad to Michigan game — fall 2026
+- [ ] Go shooting with Dad — fall 2026
 
 ## Tasks
 - [ ] Connect with Joey's parents and girlfriend

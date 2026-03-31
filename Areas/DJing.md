@@ -14,6 +14,8 @@ Ongoing DJing practice, gear, and events.
 - [ ] Confirm current gear inventory
 - [ ] Identify any missing gear
 - [ ] Establish regular practice sessions
+- [ ] Mix class videos
+- [ ] Organize vinyl
 
 ## Gear
 -
