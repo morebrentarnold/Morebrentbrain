@@ -14,6 +14,9 @@ Ongoing family responsibilities and relationships.
 - [ ] Stay connected with extended family and build those relationships
 - [ ] Take Frank and Dad to Michigan game — fall 2026
 - [ ] Go shooting with Dad — fall 2026
+- [ ] Digitize Jane's home videos
+- [ ] Take kids to see Lion King
+- [ ] Night at the Museum — American Museum of Natural History sleepover with the girls
 
 ## Tasks
 - [ ] Connect with Joey's parents and girlfriend
@@ -22,6 +25,8 @@ Ongoing family responsibilities and relationships.
 - [ ] Activities for Billie
 - [ ] Billie art class
 - [ ] Update chore payments to use three envelopes
+- [ ] Get dinner with Oliver and his wife
+- [ ] Get Dinner with Ryan / Becky
 
 ## Active Projects
 - [[sweet-jane-polo]]
