@@ -22,11 +22,14 @@ Ongoing family responsibilities and relationships.
 - [ ] Connect with Joey's parents and girlfriend
 - [ ] Edward Tufts Farms — family trip (see [[edward-tufts-farms-trip]])
 - [ ] David Byrne tickets — coming up May 2026
+- [ ] Robyn Tickets - coming up in Spring/Summer
 - [ ] Activities for Billie
 - [ ] Billie art class
 - [ ] Update chore payments to use three envelopes
 - [ ] Get dinner with Oliver and his wife
 - [ ] Get Dinner with Ryan / Becky
+- [ ] Take my mom to go see The Cure
+- [ ] Pick up my shoes from Darien Sh
 
 ## Active Projects
 - [[sweet-jane-polo]]

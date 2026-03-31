@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-31.md",
+                "file": "Areas/Family.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-31"
+              "title": "Family"
             }
           }
         ],
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-03-31.md",
+                "file": "Areas/Family.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-31"
+              "title": "Outline of Family"
             }
           },
           {
@@ -218,8 +218,8 @@
   },
   "active": "95c82a8a2b2963c3",
   "lastOpenFiles": [
-    "Areas/Family.md",
     "Daily/2026-03-31.md",
+    "Areas/Family.md",
     "Areas/Finance.md",
     "Areas/Fantasy-Football.md",
     "Projects/ucns-show-prep.md",
