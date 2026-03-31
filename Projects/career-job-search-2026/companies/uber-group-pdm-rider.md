@@ -151,7 +151,8 @@ status: active
 - [x] Application submitted
 - [x] Recruiter call with Jennifer - **COMPLETED 3/11/26**
 - [x] Portfolio sent (Experience Overview deck) - **SENT & SHARED WITH HM**
-- [ ] **NEXT: 1:1 with Hiring Manager — Bud Intonato (Design Director, NYC)** — 45 min, bring one case study
+- [x] **1:1 with Hiring Manager — Bud Intonato (Design Director, NYC)** — completed 2026-03-30
+- [ ] **NEXT: Follow-up / next round TBD**
 - [ ] Design team interviews (TBD)
 - [ ] Cross-functional interviews (TBD)
 - [ ] Final/exec round (TBD)
@@ -222,3 +223,39 @@ status: active
 - Total comp is strong ($500-600k)
 - Clear process, Jennifer was organized and helpful
 - Fast movement (portfolio already with hiring manager)
+
+---
+
+## Post-Call Notes — Bud Intonato HM Round (2026-03-30)
+
+### Overall Feel
+Went OK. Showed breadth of work. Bud responded well to systems-based work, craft, and quality bar. Main area of probing: pure product skills — can Brent work with PMs to unblock work, prioritize, set strategy, execute.
+
+### What Landed Well
+- Systems-based work and design quality bar — Bud was convinced
+- Three product examples at different altitudes:
+  - **Messenger Notes** — balancing quality and speed, shifting team priorities
+  - **Lyft Bikes & Scooters** — working with multiple product teams and competing priorities
+  - **Facebook Blueprint Patterns** — unblocking engineers
+- Managed managers framing came through via examples (not directly asked)
+- Clarity framing: "my role is bringing clarity to teams"
+
+### Where There Was Uncertainty
+- Product strategy skills — did enough to show range but didn't go deep on principled product thinking
+- Not certain he was fully convinced on fit for the role, but likely willing to move forward
+
+### What Brent Asked Bud
+- Role of AI tools in transforming how Uber works
+- Scope of the role and how success is defined
+- How this role compares in level to a Design Director
+
+### What Brent Learned
+- This role **reports directly to Bud** (Design Director)
+- Levels are "squishy" at Uber — not a rigid hierarchy
+- Bud's product partner is a **VP Product / Sr. Product Director**
+- Implication: design is one level below the product counterpart — worth understanding design's influence on strategy vs. execution
+
+### Next Steps
+- Bud didn't mention next steps explicitly
+- Assuming standard process if he wants to move forward — likely design team interviews or loop
+- Follow up with Jennifer to check on status
