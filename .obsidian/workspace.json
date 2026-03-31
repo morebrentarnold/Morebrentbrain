@@ -39,8 +39,7 @@
               "title": "uber-hiring-manager-prep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of uber-hiring-manager-prep"
+              "title": "Outline"
             }
           },
           {
@@ -216,10 +214,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a8993a095971a463",
+  "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
-    "Projects/career-job-search-2026/prep-materials/uber-interview-guide-notes.md",
     "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
+    "Projects/career-job-search-2026/prep-materials/uber-interview-guide-notes.md",
     "Projects/career-job-search-2026/interviews/uber-recruiter-call-prep.md",
     "Projects/career-job-search-2026/companies/uber-group-pdm-rider.md",
     "Projects/career-job-search-2026/companies/company-template.md",
