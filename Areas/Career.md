@@ -16,7 +16,7 @@ Ongoing career development, leadership growth, and professional responsibilities
 
 ## Tasks
 - [ ] Toastmasters — explore joining
-- [ ] Set up Clawbot
+- [ ] Set up OpenClaw - [Guide](https://open.substack.com/pub/lenny/p/openclaw-the-complete-guide-to-building?utm_campaign=post&utm_medium=email) 
 
 ## Active Projects
 - [[career-job-search-2026]]
