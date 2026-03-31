@@ -13,6 +13,9 @@ An ongoing creative practice. No end date — the goal is consistency and enjoym
 ## What I'm working on
 - [ ] Establish a regular drawing habit
 
+## Tasks
+- [ ] Ask about figure drawing class for me
+
 ## Resources
 -
 

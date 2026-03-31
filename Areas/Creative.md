@@ -14,7 +14,7 @@ Ongoing creative practice and pursuits.
 - [ ] Have active, consistent creative outlets in my life
 
 ## Active Projects
-- [[dj-setup]]
+- [[DJing]]
 - [[drawing-practice]]
 - [[defender-legos]]
 - [[ship-model]]

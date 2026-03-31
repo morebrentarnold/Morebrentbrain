@@ -31,9 +31,6 @@ tags: [daily]
 
 ---
 
-## 🪨 Big Rocks
-![[Big Rocks]]
-
 ## 📋 Evergreen Lists
 - [[Read]] | [[Watch]] | [[Listen]] | [[Buy]] | [[House Items]] | [[Games]]
 

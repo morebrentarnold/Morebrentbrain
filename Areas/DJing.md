@@ -1,21 +1,24 @@
 ---
-title: DJ Setup
+title: DJing
 date: 2026-03-28
 tags: [creative, music]
 status: active
 ---
 
-# DJ Setup
+# DJing
 
-Get DJ setup dialed in and playing regularly. Ongoing practice/hobby.
+Ongoing DJing practice, gear, and events.
 **Big Rock**: Creative
 
-## Setup Tasks
+## Tasks
 - [ ] Confirm current gear inventory
 - [ ] Identify any missing gear
 - [ ] Establish regular practice sessions
 
 ## Gear
+-
+
+## Events
 -
 
 ## Notes
