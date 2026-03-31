@@ -5,6 +5,7 @@ tags: [evergreen]
 # 🛒 Buy
 
 ## General
+- [ ] Billie toothbrush
 - [ ] Paddle board
 - [ ] Cigar box
 - [ ] Gordo peak cap

@@ -10,7 +10,7 @@ status: active
 Ongoing financial health and planning.
 **Big Rock**: Finance
 
-## Focus Areas
-- [ ]
+## Tasks
+- [ ] Kid gums account and other
 
 ## Notes

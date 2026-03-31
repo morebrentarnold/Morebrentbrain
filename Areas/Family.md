@@ -16,6 +16,10 @@ Ongoing family responsibilities and relationships.
 ## Tasks
 - [ ] Connect with Joey's parents and girlfriend
 - [ ] Edward Tufts Farms — family trip (see [[edward-tufts-farms-trip]])
+- [ ] David Byrne tickets — coming up May 2026
+- [ ] Activities for Billie
+- [ ] Billie art class
+- [ ] Update chore payments to use three envelopes
 
 ## Active Projects
 - [[sweet-jane-polo]]

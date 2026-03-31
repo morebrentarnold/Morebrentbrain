@@ -12,7 +12,9 @@ status: active
 
 ## Tasks
 - [ ] Get a new PCP
-- [ ] Get full body scan (Prenuva or ask Jason for his recommendation)
+- [ ] Get full body scan (Prenuvo or ask Jason for his recommendation)
+- [ ] Call Quest about getting lab tests (if that doesn't work, call PCP)
+- [ ] Testosterone test
 
 ## Current Injuries
 

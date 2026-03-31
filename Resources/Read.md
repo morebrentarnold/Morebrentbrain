@@ -5,6 +5,7 @@ tags: [evergreen]
 # 📚 Read
 
 ## Books
+- [ ] Atomic Habits
 - [ ] You are the one you've been waiting for
 - [ ] Watercrest
 - [ ] Five Decembers
