@@ -15,6 +15,8 @@ status: active
 - [ ] Get full body scan (Prenuvo or ask Jason for his recommendation)
 - [ ] Call Quest about getting lab tests (if that doesn't work, call PCP)
 - [ ] Testosterone test
+- [ ] Explore tattoo removal
+- [ ] Use ear cleaning kit
 
 ## Current Injuries
 
