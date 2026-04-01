@@ -15,3 +15,9 @@ Ongoing financial health and planning.
 - [ ] Fix Venmo account
 
 ## Notes
+
+04/01/26 Meeting with Alex
+
+- [ ] Ask Alex: about moving Pepsi stock off Computershare
+- [ ] Ask Alex: backdoor ROTH
+- [ ] Ask Alex: UGMA account
