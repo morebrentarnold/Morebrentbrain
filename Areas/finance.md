@@ -19,9 +19,10 @@ Ongoing financial health and planning.
 - [ ] Sell 100 units of Pepsi, move proceeds to money market
 - [ ] Explore Pepsi vs. Facebook as a potential tax-loss wash sale
 - [ ] Set up automatic buy of ~$5k into an ETF or similar
-- [ ] Use custodial accounts for savings via three envelopes method
+- [ ] 
 
 ## Notes
 - Alex's philosophy: retirement baseline first, don't overspend, diversify — don't fixate on short-term performance
 - Renovation on hold until job situation is stable
-- Backdoor Roth and UGMA — tabled for next meeting
+- Backdoor Roth — tabled for next year
+- UGMA Use custodial accounts for savings via three envelopes method
