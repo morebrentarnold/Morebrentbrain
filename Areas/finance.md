@@ -14,15 +14,14 @@ Ongoing financial health and planning.
 - [ ] Kid gums account and other
 - [ ] Fix Venmo account
 
+## Alex Meeting Next Steps (2026-04-01)
+- [ ] Send Pepsi stock info to Alex to evaluate and begin selling/moving
+- [ ] Sell 100 units of Pepsi, move proceeds to money market
+- [ ] Explore Pepsi vs. Facebook as a potential tax-loss wash sale
+- [ ] Set up automatic buy of ~$5k into an ETF or similar
+- [ ] Use custodial accounts for savings via three envelopes method
+
 ## Notes
-
-04/01/26 Meeting with Alex
-
-- [ ] Ask Alex: about moving Pepsi stock off Computershare
-- [ ] Ask Alex: backdoor ROTH
-- [ ] Ask Alex: UGMA account
-
-Send Pepsi Stock
-Lets look at Pepsi vs Facebook as a waash
-Sell 100 units and move to money market
-Automatic buy of 5k or something into an ETF or similae
+- Alex's philosophy: retirement baseline first, don't overspend, diversify — don't fixate on short-term performance
+- Renovation on hold until job situation is stable
+- Backdoor Roth and UGMA — tabled for next meeting
