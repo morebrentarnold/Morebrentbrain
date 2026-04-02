@@ -33,7 +33,8 @@ status: active
 - [ ] Next rounds TBD
 
 ## Next Steps
-- [ ] Email Mig (mig@duolingo.com) — ask him to set up intros with relevant folks
+- [x] Email Mig (mig@duolingo.com) — ask him to set up intros with relevant folks
+- [ ] Intro calls with Mig's team (pending his reply)
 - [ ] Get set up with a paid Duolingo account — explore the product deeply
 
 ## Post-Call Notes — Mig Reyes (2026-04-01)
