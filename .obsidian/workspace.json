@@ -31,16 +31,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-01.md",
+                "file": "Areas/Buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-01"
+              "title": "Buy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-04-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-01"
+              "title": "Outline"
             }
           },
           {
@@ -216,10 +214,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "95c82a8a2b2963c3",
+  "active": "8e7991ffed116e0d",
   "lastOpenFiles": [
-    "Areas/Buy.md",
     "Daily/2026-04-01.md",
+    "Daily/2026-04-02.md",
+    "Daily/2026/04/2026-04-01.md",
+    "Daily/2026/04",
+    "Areas/Buy.md",
     "Areas/Social.md",
     "Projects/career-job-search-2026/companies/duolingo-head-of-design-new-subjects.md",
     "Areas/Finance.md",
@@ -245,15 +246,12 @@
     "Projects/weight-loss-200lbs.md",
     "Areas/README.md",
     "Areas/Surfing.md",
-    "Inbox/solo-trip-late-march.md",
-    "Inbox/README.md",
     "Daily/2026/03",
     "Daily/2026",
     "Scripts/rollover.log",
     "Scripts/daily-rollover.py",
     "Scripts/rollover.py",
     "Scripts",
-    "Resources/Writings/Journal",
-    "Resources/Writings"
+    "Resources/Writings/Journal"
   ]
 }
