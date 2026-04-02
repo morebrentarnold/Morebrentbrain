@@ -11,13 +11,12 @@ Ongoing financial health and planning.
 **Big Rock**: Finance
 
 ## Tasks
-- [ ] Kid gums account and other
-- [ ] Fix Venmo account
+- [x] Kid gums account and other
 
 ## Alex Meeting Next Steps (2026-04-01)
-- [ ] Send Pepsi stock info to Alex to evaluate and begin selling/moving
-- [ ] Sell 100 units of Pepsi, move proceeds to money market
-- [ ] Explore Pepsi vs. Facebook as a potential tax-loss wash sale
+- [x] Send Pepsi stock info to Alex to evaluate and begin selling/moving
+- [x] Sell 100 units of Pepsi, move proceeds to money market
+- [x] Explore Pepsi vs. Facebook as a potential tax-loss wash sale
 - [ ] Set up automatic buy of ~$5k into an ETF or similar
 - [ ] 
 

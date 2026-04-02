@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Finance.md",
+                "file": "Daily/2026-04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finance"
+              "title": "2026-04-02"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Finance.md",
+                "file": "Daily/2026-04-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finance"
+              "title": "Outline of 2026-04-02"
             }
           },
           {
@@ -232,14 +232,14 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
+    "Areas/Social.md",
     "Daily/2026-04-02.md",
+    "Areas/Finance.md",
     "Daily/2026/04/2026-04-01.md",
     "Daily/2026-04-01.md",
     "Daily/2026/04",
     "Areas/Buy.md",
-    "Areas/Social.md",
     "Projects/career-job-search-2026/companies/duolingo-head-of-design-new-subjects.md",
-    "Areas/Finance.md",
     "Untitled.canvas",
     "Untitled.base",
     "Daily/2026-03-31.md",
