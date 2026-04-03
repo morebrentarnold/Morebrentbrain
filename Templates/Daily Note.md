@@ -16,14 +16,6 @@ tags: [daily]
 
 - [ ] 
 
-## 🔽 Low Pri
-
-- [ ] 
-
-## 🛒 Buy
-
-- [ ] 
-
 ---
 
 ## 📅 Calendar
