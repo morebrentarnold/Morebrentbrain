@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-02.md",
+                "file": "Daily/2026-04-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-02"
+              "title": "2026-04-03"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-04-02.md",
+                "file": "Daily/2026-04-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-02"
+              "title": "Outline of 2026-04-03"
             }
           },
           {
@@ -234,6 +234,8 @@
   "lastOpenFiles": [
     "Projects/career-job-search-2026/companies/duolingo-head-of-design-new-subjects.md",
     "Daily/2026-04-02.md",
+    "Daily/2026-04-03.md",
+    "Daily/2026/04/2026-04-02.md",
     "Areas/DJ-setup.md",
     "Areas/DJing.md",
     "Areas/Career.md",
@@ -260,8 +262,6 @@
     "Resources/Read.md",
     "Projects/defender-legos.md",
     "Projects/Charleston 2026.md",
-    "Projects/career-job-search-2026.md",
-    "Projects/weight-loss-200lbs.md",
     "Daily/2026/03",
     "Daily/2026",
     "Scripts/rollover.log",
