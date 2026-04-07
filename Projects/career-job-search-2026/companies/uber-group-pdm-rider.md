@@ -261,7 +261,7 @@ Went OK. Showed breadth of work. Bud responded well to systems-based work, craft
 - Follow up with Jennifer to check on status
 
 
-Call with Jenn to prepare for Uber presentatin 
+
 
 
 ## Portfolio Presentation (1 hour)
