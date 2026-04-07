@@ -259,3 +259,104 @@ Went OK. Showed breadth of work. Bud responded well to systems-based work, craft
 - Bud didn't mention next steps explicitly
 - Assuming standard process if he wants to move forward — likely design team interviews or loop
 - Follow up with Jennifer to check on status
+
+
+Call with Jenn to prepare for Uber presentatin 
+
+
+## Portfolio Presentation (1 hour)
+
+Please prepare a 1 hour presentation featuring **two design projects** from your team where you were meaningfully hands-on in the process and solution. In addition to the project work, we’d like an overview of the key contributions you’ve made to your organization and team culture as a manager.
+
+The goal of this session is not only to review the final outcomes but also to better understand how you think, lead, and operate as a design leader.  
+Please plan to leave the remaining 15 min for Q&A
+
+---
+
+## Suggested Structure & Content
+
+### 1. About You (Intro)
+
+- Brief background and career journey
+    
+- Why Uber?
+    
+- Why this team in particular? (Please speak specifically to your interest in the team you’re interviewing with.)
+    
+
+---
+
+### 2. Case Study #1: Complex Problem / Redesign
+
+Share a project where you led a complex problem space or significant redesign.
+
+Please cover:
+
+- The problem and context
+    
+- Your role and level of involvement
+    
+- How you set the team up for success
+    
+- Key product, team, and process challenges
+    
+- Outcomes and impact
+    
+
+We’re especially interested in how you navigated ambiguity, cross-functional collaboration, and team dynamics.
+
+---
+
+### 3. Case Study #2: A Project You’re Passionate About
+
+Choose a project that reflects what energizes you most as a leader and designer.
+
+This could highlight:
+
+- Craft excellence
+    
+- Innovation
+    
+- Team growth
+    
+- Strategic impact
+    
+- Cultural influence
+    
+
+---
+
+### 4. Leadership & Management Philosophy
+
+Please share:
+
+- Size and structure of your team
+    
+- Your management philosophy
+    
+- How you approach vision-setting and leadership
+    
+- How you support growth, development, and career conversations
+    
+
+---
+
+### Optional: IC Highlight Reel
+
+If relevant, you may include a brief “highlight reel” of standout work from your time as an individual contributor. Process is not required — final outputs are sufficient to showcase craft, range, or extracurricular strengths.  
+
+## Post–Portfolio Review Interviews
+
+Following the Portfolio Review, you will have **five 45-minute 1:1 interviews**.
+
+Each session will focus on one of the following competencies:
+
+- **Scope of Work** | Size, ambiguity, and complexity of projects
+    
+- **Process** **& Efficiency** | Problem-solving frameworks, prioritization and time management, autonomy/adaptability to challenges
+    
+- **Craft** | Work Quality, team and organizational development
+    
+- **Expertise** | Breadth and depth of skills, Business Acumen
+    
+- **Influence** | Business influence, team influence, external influence
