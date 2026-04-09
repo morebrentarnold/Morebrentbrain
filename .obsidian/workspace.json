@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-09.md",
+                "file": "Resources/Writings/Journal/We are all Will Farrell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-09"
+              "title": "We are all Will Farrell"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-04-09.md",
+                "file": "Resources/Writings/Journal/We are all Will Farrell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-09"
+              "title": "Outline of We are all Will Farrell"
             }
           },
           {
@@ -232,8 +232,12 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
-    "Daily/2026/04/2026-04-08.md",
+    "Resources/Writings/Journal/Untitled.md",
+    "Resources/Writings/Journal/We are all Will Farrell.md",
+    "Resources/Writings/Journal/Why do these need to have a name 122918.md",
+    "Resources/Writings/My Writing Voice.md",
     "Daily/2026-04-09.md",
+    "Daily/2026/04/2026-04-08.md",
     "Daily/2026-04-04.md",
     "Daily/2026-04-08.md",
     "Daily/2026/04/2026-04-07.md",
@@ -254,10 +258,6 @@
     "Daily/2026-04-02.md",
     "Daily/2026/04/2026-04-02.md",
     "Areas/DJ-setup.md",
-    "Areas/DJing.md",
-    "Areas/Career.md",
-    "Areas/Social.md",
-    "Areas/Finance.md",
     "Daily/2026/04",
     "Untitled.canvas",
     "Untitled.base",
