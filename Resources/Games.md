@@ -22,7 +22,8 @@ tags: [evergreen]
 - **Race:** Half-Elf (+2 CHA, +1 STR, Darkvision, 2 extra skill proficiencies)
 - **Oath:** Oath of the Ancients (forgiving for grey choices — avoid siding with pure evil)
 - **Class Skills:** Persuasion, Intimidation
-- **Background:** TBD — leaning Noble (Persuasion + History) or Soldier (Athletics + Intimidation). Check for overlap with class skill picks before deciding.
+- **Background:** Noble
+- **Skills:** Athletics, History, Persuasion, Intimidation
 
 ### Why This Build
 Tanky, hard to die, Charisma-based so you own dialogue and feel like the protagonist. Smites are satisfying. Low micromanagement — good for 20-30 min sessions.
