@@ -6,7 +6,7 @@ tags: [evergreen]
 
 ## Baldur's Gate 3 — Current Build
 
-**Character:** Half-Elf Oath of the Ancients Paladin
+**Character:** Kael — Half-Elf Oath of the Ancients Paladin
 
 ### Ability Scores (after racial bonuses)
 | Ability | Score |
