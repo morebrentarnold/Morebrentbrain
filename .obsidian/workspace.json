@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-10.md",
+                "file": "Resources/Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-10"
+              "title": "Games"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-04-10.md",
+                "file": "Resources/Games.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-10"
+              "title": "Outline of Games"
             }
           },
           {
@@ -232,15 +232,17 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
+    "Resources/Watch.md",
+    "Resources/Games.md",
+    "Daily/2026-04-13.md",
     "Daily/2026/04/2026-04-10.md",
+    "Daily/2026-04-11.md",
+    "Daily/2026-04-10.md",
     "Daily/2026/04/2026-04-02.md",
     "Daily/2026-04-03.md",
     "Daily/2026/04/2026-04-03.md",
     "Daily/2026-04-04.md",
-    "Daily/2026-04-10.md",
     "Daily/2026/04/2026-04-11.md",
-    "Daily/2026-04-11.md",
-    "Daily/2026-04-13.md",
     "Daily/2026/04/2026-04-12.md",
     "Daily/2026-04-12.md",
     "Daily/2026/04/2026-04-08.md",
@@ -256,8 +258,6 @@
     "Daily/2026-04-07.md",
     "Projects/career-job-search-2026/prep-materials/uber-interview-guide-notes.md",
     "Projects/career-job-search-2026/interviews/uber-hiring-manager-prep.md",
-    "Projects/career-job-search-2026/interviews/uber-recruiter-call-prep.md",
-    "Daily/2026/04/2026-04-06.md",
     "Daily/2026/04",
     "Untitled.canvas",
     "Untitled.base",
