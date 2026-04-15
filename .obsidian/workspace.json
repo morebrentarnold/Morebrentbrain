@@ -43,13 +43,14 @@
             "id": "c72431a1a09029a0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Areas/Executive-Coaching.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Executive-Coaching"
             }
           }
         ],
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Areas/Executive-Coaching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Executive-Coaching"
             }
           },
           {
@@ -231,6 +232,9 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Untitled.base",
+    "Vault Index.base",
     "Untitled.canvas",
     "Daily/2026/04/2026-04-02.md",
     "Areas/Executive-Coaching.md",
@@ -258,8 +262,6 @@
     "Resources/Writings/Journal/Why do these need to have a name 122918.md",
     "Resources/Writings/My Writing Voice.md",
     "Daily/2026/04",
-    "Untitled.base",
-    "Vault Index.base",
     "Daily/2026/03",
     "Daily/2026",
     "Scripts/rollover.log",
