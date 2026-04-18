@@ -10,6 +10,12 @@ status: active
 
 Topics for ebru
 - I want to have sex. What do I do?
+- I want to keep our marriage togheher
+- I’m worried Jane thinks I’m enemy 
+- Can I force her to go into a program
+- Will be come back from this?
+- I need some validation on how awful this all is 
+- I can’t depend on Jane for any support 
 
 ## 2026-04-17
 
