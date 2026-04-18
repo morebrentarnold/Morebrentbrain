@@ -33,7 +33,7 @@ Yesterday she met with another psychiatrist for a consultation and the plan is t
 
 Jane has evolved into just constant sadness and isolation. I was going to wait to see what tomorrow was like before I texted you but I’m going a bit nuts myself.
 
-I feel pretty lost and hopefu
+I feel pretty lost and hopeless myself. She needs dedicated care and fast. It feels 
 
 ## 2026-04-17
 
