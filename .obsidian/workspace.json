@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-17.md",
+                "file": "Areas/Marriage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-17"
+              "title": "Marriage"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-04-17.md",
+                "file": "Areas/Marriage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-17"
+              "title": "Outline of Marriage"
             }
           },
           {
@@ -232,9 +232,9 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
+    "Daily/2026-04-17.md",
     "Daily/2026-04-15.md",
     "Daily/2026-04-16.md",
-    "Daily/2026-04-17.md",
     "Daily/2026/04/2026-04-16.md",
     "Areas/Executive-Coaching.md",
     "Daily/2026/04/2026-04-15.md",
