@@ -8,6 +8,9 @@ status: active
 
 <!-- Free-form thoughts, newest first -->
 
+Topics for ebru
+- I want to have sex. What do I do?
+
 ## 2026-04-17
 
 Today I met with Jane's mom which was really helpful as it gave me an external lens to look at whats going in.
