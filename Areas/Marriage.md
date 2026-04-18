@@ -8,6 +8,10 @@ status: active
 
 <!-- Free-form thoughts, newest first -->
 
+Sex (references and thoughts about our sex life)
+
+- beducated could be a fun site
+
 Topics for ebru
 - I want to have sex. What do I do?
 - I want to keep our marriage togheher
