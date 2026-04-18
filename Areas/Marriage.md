@@ -16,6 +16,7 @@ Topics for ebru
 - Will be come back from this?
 - I need some validation on how awful this all is 
 - I can’t depend on Jane for any support 
+- What will it take for us to sleep together again and have sex again?
 
 ## 2026-04-17
 
