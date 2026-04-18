@@ -23,6 +23,18 @@ Topics for ebru
 - I can’t depend on Jane for any support 
 - What will it take for us to sleep together again and have sex again?
 
+04-18
+
+Text for Kat.
+
+Hey. Sorry for leaning on you but outside of her doctors I don’t think anyone can really understand.
+
+Yesterday she met with another psychiatrist for a consultation and the plan is to meet again on Friday. I can’t imagine waiting that long.
+
+Jane has evolved into just constant sadness and isolation. I was going to wait to see what tomorrow was like before I texted you but I’m going a bit nuts myself.
+
+I feel pretty lost and hopefu
+
 ## 2026-04-17
 
 Today I met with Jane's mom which was really helpful as it gave me an external lens to look at whats going in.
