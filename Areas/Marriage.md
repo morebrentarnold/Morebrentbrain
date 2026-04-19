@@ -25,13 +25,13 @@ Topics for ebru
 
 
 
-04-19
+#### 04-19
 
 - White plains NYP westchester behavioral health
 Mobile crisis unit
 - 2035517056
 
-Text for Jenny Blanco
+**Text for Jenny Blanco**
 
 Hello Jenny. This is Brent Arnold. Jane Seymour’s husband.
 
@@ -54,7 +54,24 @@ She is supposed to come back to the house this morning so she can be with kids. 
 If she won’t voluntarily go, what are my options? A wellness check from the police?
 
 
-04-18
+**Update for Kat / Jill**
+
+Hi. Update since this morning.
+
+I dropped kids at Jane's mothers and then Jane came back to house. Our talking just kept escalating and I called 911 but hung up. And she called Scotty. 
+
+I left the house as I didnt feel safe to be there and went to Jane's mothers and we continued to text/talk.
+
+She thinks I just want to control her and own her. I want to ship her away to take the kids away and her phone. And she is devastated I called her mother. 
+
+I told her she is not going to see the kids till she gets help/gets evaluated again. As you can imagine we just went over and over in circles.
+
+I also spent time calling doctors, I talked to the initial psychiatrist and Val (her long time ther)
+
+She finally agreed to contact the mobile crisis unit at 8am tomorrow morning. They arent open on weekends. 
+
+
+#### 04-18
 
 Text for Kat.
 
