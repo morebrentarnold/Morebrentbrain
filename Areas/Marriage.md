@@ -31,6 +31,19 @@ Topics for ebru
 Mobile crisis unit
 - 2035517056
 
+
+
+Text for Jane
+
+
+I’m not trying to anger you or do I have any agenda.
+
+But do you want to talk to Billie about how to talk about what she saw last night? 
+
+I walked in on her talking to Addie and she was saying “you’ll never guess what I saw last night. My mommy tackling my Dad.” And I gave her a look and she said she was kidding. Olive came in so I didn’t get a chance to talk to her about it. 
+
+But we 
+
 **Text for Jenny Blanco**
 
 Hello Jenny. This is Brent Arnold. Jane Seymour’s husband.
