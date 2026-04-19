@@ -58,17 +58,25 @@ If she won’t voluntarily go, what are my options? A wellness check from the po
 
 Hi. Update since this morning.
 
-I dropped kids at Jane's mothers and then Jane came back to house. Our talking just kept escalating and I called 911 but hung up. And she called Scotty. 
+I dropped kids at Jane's mothers and then Jane came back to house. Our talking just kept escalating and I called 911 but hung up. And she called Scotty... in our house. wtf. 
 
-I left the house as I didnt feel safe to be there and went to Jane's mothers and we continued to text/talk.
+I actually contacted Scotty and told her to help her. And he keeps saying she is fine and he isnt supporting getting her help. 
 
-She thinks I just want to control her and own her. I want to ship her away to take the kids away and her phone. And she is devastated I called her mother. 
+I left the house as I didnt feel safe to be there and went to Jane's mothers and we continued to text/talk. Im obviously not physically scared but the emotional battle and manic behavior is pointless to be around.
+
+She thinks I just want to control her and own her. I want to ship her away to take the kids away and her phone. And she is devastated I called her mother. And she thinks Im turning everyone against her.
+
+I also spent time calling doctors, I talked to her initial psychiatrist and Val (her long time therapist).
 
 I told her she is not going to see the kids till she gets help/gets evaluated again. As you can imagine we just went over and over in circles.
 
-I also spent time calling doctors, I talked to the initial psychiatrist and Val (her long time ther)
+She finally agreed to contact the mobile crisis unit at 8am tomorrow morning. They aren't open on weekends. She most likely will paint a story of calmness and in control. Shes implied as much. But they will also talk to me. If she comes out of this with a clean bill of health then I will happily support however she wants to move forward.
 
-She finally agreed to contact the mobile crisis unit at 8am tomorrow morning. They arent open on weekends. 
+We are also trying so see Ebru together tomorrow.
+
+Im back home with kids but not leaving them alone or allowing her to drink. 
+
+Im sorry to have involved you in this. If it is at all too much please let me know. I hope to one day repay you for your support.
 
 
 #### 04-18
