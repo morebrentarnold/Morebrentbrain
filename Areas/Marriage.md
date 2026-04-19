@@ -23,6 +23,33 @@ Topics for ebru
 - I can’t depend on Jane for any support 
 - What will it take for us to sleep together again and have sex again?
 
+
+
+04-19
+
+Text for Jenny Blanco
+
+Hello Jenny. This is Brent Arnold. Jane Seymour’s husband.
+
+Apologies to contact you on a Sunday. But Im extremely concerned about Jane’s mental health and safety. She needs help fast and not sure what my options are today.
+
+Last night Jane had an episode. I don’t know what else to call it. 
+
+After being intoxicated, she was rejected by our kids when trying to put them to bed and then tried to go to a hotel. I wouldn’t let her because she has been drinking and I didn’t trust her to be smart or safe.
+  
+The conversation escalated and she became physical with me. Which woke up our oldest daughter. While trying to manage the situation she continued to be physical (with me only). She eventually got a key from me. I tried to stop her from driving but she used the car to push me out of the way. And she drove away intoxicated.
+
+I finally made contact with her and found out she was safe and then later made it to a hotel. I believe she is with Scott (the person she had the affair with) But at this point just being safe is the only important thing.
+
+I’m writing because she needs immediate mental health care. But if she won’t voluntarily go then I’m uncertain my options.
+
+She was approved to for admission into Silver Hill on Thursday. I don’t know if this is the right place for her. But I’m not sure if matters at this point.
+
+She is supposed to come back to the house this morning so she can be with kids. But I have them at her mother’s house as I don’t believe it’s safe for them here.
+
+If she won’t voluntarily go, what are my options? A wellness check from the police?
+
+
 04-18
 
 Text for Kat.
