@@ -3,10 +3,7 @@ title: Marriage
 date: 2026-04-17
 status: active
 ---
-Kwan
 
-2033881577 
-18005869903
 # Marriage
 
 <!-- Free-form thoughts, newest first -->
@@ -28,17 +25,70 @@ Topics for ebru
 
 
 
+#### 04-20
 
+Mobile Crisis Unit
+
+Kwan
+2033881577 
+18005869903
 
 
 #### 04-19
 
-Prep for Mobile Crisis Unit and Ebru
+Prep for Ebru
+
+I dont care about my own feelings
+Ill prioritize myself later
+
+Jane you are being completely destructive and have spiked back into your addictive behaviors
+You also swing from moments o
+
+- Destructive Behavior
+	- I need you to hear me you are taking us all down
+	- Our kids, myself, yourself, friends, even Scott
+	- Examples
+		- Sleeping with scott again - If you werent destructive you would have just left me if you really wanted to be with him
+		- My birthday - Completely checked out. On your phone the whole day. I dont know if this destructive or just careless
+		- Saturday
+			- Sitting at the Whelk for 3 hours then driving home drunk
+				- 
+				- 
+				- Repeating herself over and over
+			- At dinner commenting on everyone and how they react to her
+			- On her phone the whole time
+			- When we go to leave she is going into to crowd giving hugs talking to people. Wanting to feel liked
+			- Came home and kids rejected her for bedtime.
+			- She got into a big brawl with Billie
+			- Texted me she wants to leave and go to a hotel
+			- I come downstairs to talk
+			- Tell her im not allowing her to do that as she has been drinking, and dont trust her to be safe or smart
+			- She starts threatening me
+			- Then I tell her Im going to call the police or her mother since I just another body here to watch kids
+			- And she tackles me to try to get phone and continues to do so
+			- Billie comes down and sees it
+			- We stop and I try to take Bille upstairs
+			- But i grab the keys and as Im walking Billie up she stands in my way and slaps me demanding keys. 
+			- Im stunned and she isable to grab a key and run out to car
+			- I go to stand in back of car while Billie watches and she backs up into me
+			- I then try to open the door and keeps driving with the door open
+			- She is drunk and Im scared for her safety
+			- I had Bob come over and called Kat and Priscilla
+			- Finding she is safe
+			- Hotel with scott i assume
+	- 
+- Addictive Behavior
+	- On phone constantly
+	- Drinking to excess
+- Isolating yourself
+- Think everyone is out to get you
+
+
 
 - Story of what has happened in the past week
 - Jane's overall demeanor
-- Isolating and depressed one day/moment
-- Drinking and chaotic the next
+	- Isolating and depressed one day/moment
+	- Drinking and chaotic the next
 - She thinks I want to control her and I am the enemy
 - In Portland was helpful / validating as friends were concerned how manic she is one day to the next
 - Realizing i cant rely onn her for my feeelings
