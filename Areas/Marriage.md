@@ -48,7 +48,8 @@ Kwan
 
 I love you and care so much for you. Im sure you hate me and no coming back for us.
 
-Please hear me that you are being completely destructive and have spiked back into your addictive behaviors.
+Please hear me that you are being completely destructive and have spiked back into your addictive behaviors. 
+
 I need you to hear me you are taking us all down: Our kids, myself, yourself, friends, even Scott
 You also swing from moments of isolating yourself to thinking were against you
 
