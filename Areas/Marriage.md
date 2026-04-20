@@ -36,25 +36,30 @@ Kwan
 
 #### 04-19
 
-Prep for Ebru
+##### Prep for Ebru
 
-I dont care about my own feelings
-Ill prioritize myself later
+**Myself**
+- Realizing i cant rely onn her for my feeelings
+- Ive been trying to since the last time she slept with scott
+- I dont care about my own feelings
+- Ill prioritize myself later
 
-Jane you are being completely destructive and have spiked back into your addictive behaviors
-You also swing from moments o
+**Jane**
+
+I love you and care so much for you. Im sure you hate me and no coming back for us.
+
+Please hear me that you are being completely destructive and have spiked back into your addictive behaviors.
+I need you to hear me you are taking us all down: Our kids, myself, yourself, friends, even Scott
+You also swing from moments of isolating yourself to thinking were against you
 
 - Destructive Behavior
-	- I need you to hear me you are taking us all down
-	- Our kids, myself, yourself, friends, even Scott
 	- Examples
 		- Sleeping with scott again - If you werent destructive you would have just left me if you really wanted to be with him
 		- My birthday - Completely checked out. On your phone the whole day. I dont know if this destructive or just careless
-		- Saturday
+		- Saturday - was similar to the snow storm day
 			- Sitting at the Whelk for 3 hours then driving home drunk
-				- 
-				- 
 				- Repeating herself over and over
+				- Face was red from kissing him
 			- At dinner commenting on everyone and how they react to her
 			- On her phone the whole time
 			- When we go to leave she is going into to crowd giving hugs talking to people. Wanting to feel liked
@@ -76,12 +81,16 @@ You also swing from moments o
 			- I had Bob come over and called Kat and Priscilla
 			- Finding she is safe
 			- Hotel with scott i assume
-	- 
+	- Her friends at dinner the other night were all concerned for her
 - Addictive Behavior
-	- On phone constantly
+	- Addicted to her phone all the time on it. Afraid that im going to lock her up and take it away from her. 
 	- Drinking to excess
 - Isolating yourself
 - Think everyone is out to get you
+	- She thinks I want to control her and I am the enemy
+
+**Agreed to evaluation but not doing it**
+- Mobile crisis unit
 
 
 
@@ -89,21 +98,7 @@ You also swing from moments o
 - Jane's overall demeanor
 	- Isolating and depressed one day/moment
 	- Drinking and chaotic the next
-- She thinks I want to control her and I am the enemy
 - In Portland was helpful / validating as friends were concerned how manic she is one day to the next
-- Realizing i cant rely onn her for my feeelings
-- Ive been trying to since the last time she slept with scott
-- Her friends at dinner the other night were all concerned for her
-- She thinks everyone is out to get her half the time.
-- Examples of how she acts
-	- Comments on everyone that walks through the restaurant and how they look at her or respond to her.
-	- Sitting at the Whelk for 3 hours then driving home drunk
-		- Repeating herself over and over
-	- Manic behavior
-	- Charging me, tackling me and scratching me.
-	- Then slapping me in front of kid
-	- Then backing up into me while im asking her not to drive away drunk
-	- Addicted to her phone all the time on it. Afraid that im going to lock her up and take it away from her. 
 - What happened Saturday
 	- Sitting at the Whelk for 3 hours then driving home drunk
 		- Repeating herself over and over
@@ -133,7 +128,6 @@ You also swing from moments o
 	- Destructive beahavior
 	- Driving to hotel drunk in a snow storm
 	- Driving to hotel drunk after being reflected by your kids
-	- Face was red from kissing
 
 
 
