@@ -25,7 +25,26 @@ Topics for ebru
 
 
 
+
+
+
 #### 04-19
+
+Prep for Mobile Crisis Unit and Ebru
+
+- Story of what has happened in the past week
+- Jane's overall demeanor
+- She thinks I want to control her and I am the enemy
+- In Portland was helpful / validating as friends were concerned how manic she is one day to the next
+- She thinkgs everyone is out to get her half the time.
+- Examples of how she acts
+	- Comments on everyone that walks through the resturaunt and how they look at her or respond to her.
+	- Sitting at the Whelk for 3 hours then driving home drunk
+	- Repeating herself over and over
+	- Manic behavior
+	- 
+
+
 
 - White plains NYP westchester behavioral health
 Mobile crisis unit
