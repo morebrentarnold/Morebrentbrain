@@ -34,15 +34,43 @@ Prep for Mobile Crisis Unit and Ebru
 
 - Story of what has happened in the past week
 - Jane's overall demeanor
+- Isolating and depressed one day/moment
+- Drinking and chaotic the next
 - She thinks I want to control her and I am the enemy
 - In Portland was helpful / validating as friends were concerned how manic she is one day to the next
-- She thinkgs everyone is out to get her half the time.
+- She thinks everyone is out to get her half the time.
 - Examples of how she acts
-	- Comments on everyone that walks through the resturaunt and how they look at her or respond to her.
+	- Comments on everyone that walks through the restaurant and how they look at her or respond to her.
 	- Sitting at the Whelk for 3 hours then driving home drunk
-	- Repeating herself over and over
+		- Repeating herself over and over
 	- Manic behavior
+	- Charging me, tackloing me and scratching me.
+	- Then slapping me in front of kid
+	- Then backing up into me while im asking her not to drive away drunk
+	- Addicted to her phone all the time on it. Afraid that im going to lock her up and take it away from her. 
+- What happened Saturday
+	- Sitting at the Whelk for 3 hours then driving home drunk
+		- Repeating herself over and over
+	- At dinner commenting on everyone and how they react to her
+	- On her phone the whole time
+	- When we go to leave she is going into to crowd giving hugs talking to people. Wanting to feel liked
+	- Came home and kids rejected her for bedtime.
+	- She got into a big brawl with Billie
+	- Texted me she wants to leave and go to a hotel
+	- I come downstairs to talk
+	- Tell her im not allowing her to do that as she has been drinking, and dont trust her to be safe or smart
+	- She starts threatening me
+	- Then I tell her Im going to call the police or her mother since I just another body here to watch kids
+	- And she tackles me to try to get phone and continues to do so
+	- Billie comes down and sees it
+	- We stop and I try to take Bille upstairs
+	- But i grab the keys and as Im walking Billie up she stands in my way and slaps me demanding keys. 
+	- Im stunned and she isable to grab a key and run out to car
 	- 
+- How she acted before these past few weeks
+	- Addicted to exercising, sex and phone
+
+
 
 
 
