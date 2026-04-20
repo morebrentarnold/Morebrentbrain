@@ -38,13 +38,14 @@ Prep for Mobile Crisis Unit and Ebru
 - Drinking and chaotic the next
 - She thinks I want to control her and I am the enemy
 - In Portland was helpful / validating as friends were concerned how manic she is one day to the next
+- Her friends at dinner the other night were all concerned for her
 - She thinks everyone is out to get her half the time.
 - Examples of how she acts
 	- Comments on everyone that walks through the restaurant and how they look at her or respond to her.
 	- Sitting at the Whelk for 3 hours then driving home drunk
 		- Repeating herself over and over
 	- Manic behavior
-	- Charging me, tackloing me and scratching me.
+	- Charging me, tackling me and scratching me.
 	- Then slapping me in front of kid
 	- Then backing up into me while im asking her not to drive away drunk
 	- Addicted to her phone all the time on it. Afraid that im going to lock her up and take it away from her. 
@@ -66,7 +67,10 @@ Prep for Mobile Crisis Unit and Ebru
 	- We stop and I try to take Bille upstairs
 	- But i grab the keys and as Im walking Billie up she stands in my way and slaps me demanding keys. 
 	- Im stunned and she isable to grab a key and run out to car
-	- 
+	- I go to stand in back of car while Billie watches and she backs up into me
+	- I then try to open the door and keeps driving with the door open
+	- She is drunk and Im scared for her safety
+	- I had Bob come over and called Kat and Priscilla
 - How she acted before these past few weeks
 	- Addicted to exercising, sex and phone
 
