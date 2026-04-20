@@ -3,7 +3,10 @@ title: Marriage
 date: 2026-04-17
 status: active
 ---
+Kwan
 
+2033881577 
+18005869903
 # Marriage
 
 <!-- Free-form thoughts, newest first -->
@@ -38,6 +41,8 @@ Prep for Mobile Crisis Unit and Ebru
 - Drinking and chaotic the next
 - She thinks I want to control her and I am the enemy
 - In Portland was helpful / validating as friends were concerned how manic she is one day to the next
+- Realizing i cant rely onn her for my feeelings
+- Ive been trying to since the last time she slept with scott
 - Her friends at dinner the other night were all concerned for her
 - She thinks everyone is out to get her half the time.
 - Examples of how she acts
@@ -71,8 +76,14 @@ Prep for Mobile Crisis Unit and Ebru
 	- I then try to open the door and keeps driving with the door open
 	- She is drunk and Im scared for her safety
 	- I had Bob come over and called Kat and Priscilla
+	- Finding she is safe
+	- Hotel with scott i assume
 - How she acted before these past few weeks
 	- Addicted to exercising, sex and phone
+	- Destructive beahavior
+	- Driving to hotel drunk in a snow storm
+	- Driving to hotel drunk after being reflected by your kids
+	- Face was red from kissing
 
 
 
