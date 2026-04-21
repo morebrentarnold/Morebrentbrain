@@ -34,6 +34,14 @@ Kwan
 18005869903
 
 
+Questions for Chris lawyer
+
+- Jane wants to get separated and live in house
+- I’m not sure I can handle it
+- Can she cut me off from psychiatric updates?
+- Can we talk through the legal risk i have
+
+
 #### 04-19
 
 ##### Prep for Ebru
