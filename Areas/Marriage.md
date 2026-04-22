@@ -28,6 +28,15 @@ Topics for ebru
 
 **Prep for Ebru**
 
+- Liked what you said about point person
+- Even with this meeting I wanna make sure my focusing on your role
+- Wanted to talk about my role and my experience a bit
+- Moving forward / going slowly
+- Jane’s version - separation 
+- if we aren’t separated and we aren’t divorced what are we?
+- Psychiatrists recommendation
+
+
 Outcome - Align that moving slow doesnt mean separation
 
 

@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Marriage.md",
+                "file": "Daily/2026-04-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marriage"
+              "title": "2026-04-22"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "speaker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Marriage.md",
+                "file": "Daily/2026-04-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marriage"
+              "title": "Outline of 2026-04-22"
             }
           },
           {
@@ -200,10 +200,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Areas/Marriage.md"
+                "file": "Daily/2026-04-22.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Marriage"
+              "title": "File properties for 2026-04-22"
             }
           }
         ],
@@ -230,10 +230,11 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
-    "Daily/2026-04-21.md",
+    "Areas/Billie-BMX.md",
     "Daily/2026/04/2026-04-21.md",
     "Daily/2026-04-22.md",
     "Areas/Marriage.md",
+    "Daily/2026-04-21.md",
     "Areas/therapy-insurance.md",
     "Daily/2026-04-20.md",
     "Daily/2026/04/2026-04-19.md",
@@ -258,7 +259,6 @@
     "Daily/2026-04-14.md",
     "Daily/2026/04/2026-04-14.md",
     "Daily/2026/04/2026-04-13.md",
-    "Resources/Watch.md",
     "Daily/2026/04",
     "Daily/2026/03",
     "Daily/2026",
