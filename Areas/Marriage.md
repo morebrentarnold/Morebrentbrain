@@ -23,6 +23,21 @@ Topics for ebru
 - I can’t depend on Jane for any support 
 - What will it take for us to sleep together again and have sex again?
 
+04-22
+
+- If I move how will this impact my ability to claim primary
+- How do expenses come into play here
+
+- Your making the choice
+- Stop talking to the guy
+- Give you time to think about it
+- ill look for a place this weekend
+- Here is my schedule
+
+
+
+
+
 
 #### 04-21 
 
