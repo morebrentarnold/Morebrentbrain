@@ -39,9 +39,6 @@ My own history and its influence on this
 	- And the facts are the facts
 - I feel crazy, and in someways Im sure this has made me crazy
 
-Is it helpful to give more detail or context on Jane
-- what would be the goal?
-
 Can we talk about what happened over the weekend more?
 - Maybe in the context of my response
 - Legal risk from Saturday 
