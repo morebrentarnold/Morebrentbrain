@@ -42,6 +42,10 @@ My own history and its influence on this
 Is it helpful to give more detail or context on Jane
 - what would be the goal?
 
+Can we talk about what happened over the weekend more?
+- Maybe in the context of my response
+- Legal risk from Saturday 
+
 Moving forward 
 - Goal based moving forward
 	- I like this
