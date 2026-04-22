@@ -24,6 +24,43 @@ Topics for ebru
 - What will it take for us to sleep together again and have sex again?
 
 
+#### 04-21 
+
+**Prep for Ebru**
+
+Outcome - Align that moving slow doesnt mean separation
+
+
+My own history and its influence on this
+- Jane shared some of the topics
+- I was going to come in today to talk about similar tihn
+- But I also know that two things can be true:
+	- I can be influenced by my history
+	- And the facts are the facts
+- I feel crazy, and in someways Im sure this has made me crazy
+
+Is it helpful to give more detail or context on Jane
+- what would be the goal?
+
+Moving forward 
+- Goal based moving forward
+	- I like this
+	- Ive tried it a few times
+	- She doesnt have the capacity
+- Separation is not something I will do
+	- Im very clear on this
+- Ive been raked over the coal enough
+- Im not going to stomach paying for her to see him
+- After what she put me through
+- She said "I want the ability to go over to that old guy and ask for his number"
+- Were not on the same playing field
+- What does moving slow mean to you?
+	- If not separation, how do we define it?
+- If she thinks separation is fair then help me understand Divorce in this world
+
+
+
+
 
 #### 04-20
 
