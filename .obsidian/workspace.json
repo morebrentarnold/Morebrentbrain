@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Billie-BMX.md",
+                "file": "Projects/career-job-search-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Billie-BMX"
+              "title": "career-job-search-2026"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speaker",
+                "query": "Uber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Billie-BMX.md",
+                "file": "Projects/career-job-search-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Billie-BMX"
+              "title": "Outline of career-job-search-2026"
             }
           },
           {
@@ -200,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Areas/Billie-BMX.md"
+                "file": "Projects/career-job-search-2026.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Billie-BMX"
+              "title": "File properties for career-job-search-2026"
             }
           }
         ],
@@ -230,10 +231,12 @@
   },
   "active": "c72431a1a09029a0",
   "lastOpenFiles": [
+    "Resources/Writings/Journal/Brice.md",
+    "Daily/2026/03/2026-03-31.md",
+    "Areas/Billie-BMX.md",
     "Daily/2026-04-22.md",
     "Daily/2026-04-23.md",
     "Daily/2026/04/2026-04-22.md",
-    "Areas/Billie-BMX.md",
     "Daily/2026/04/2026-04-21.md",
     "Areas/Marriage.md",
     "Daily/2026-04-21.md",
@@ -257,8 +260,6 @@
     "Untitled.base",
     "Vault Index.base",
     "Untitled.canvas",
-    "Daily/2026/04/2026-04-02.md",
-    "Daily/2026-04-14.md",
     "Daily/2026/04",
     "Daily/2026/03",
     "Daily/2026",
